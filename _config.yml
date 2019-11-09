@@ -1,0 +1,21 @@
+# Site settings
+title:          "H . ε . 1 . Ⅰ . 0"
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/"
+url:            "https://meiwenhui.com"
+
+# Author
+author:
+  name:         meiwenhui
+  url:          https://meiwenhui.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Permalinks
+permalink:      /:title
