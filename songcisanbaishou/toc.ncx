@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>目录</text>
+       </navLabel>
+       <content src="text00000.html"/>
+     </navPoint>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>扉页</text>
+       </navLabel>
+       <content src="text00001.html"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>版权页</text>
+       </navLabel>
+       <content src="text00002.html"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>大陆版前言</text>
+       </navLabel>
+       <content src="text00003.html"/>
+     </navPoint>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>台北版前言</text>
+       </navLabel>
+       <content src="text00004.html"/>
+     </navPoint>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>宴山亭</text>
+       </navLabel>
+       <content src="text00005.html"/>
+     </navPoint>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00006.html"/>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>苏幕遮</text>
+       </navLabel>
+       <content src="text00007.html"/>
+     </navPoint>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>御街行</text>
+       </navLabel>
+       <content src="text00008.html"/>
+     </navPoint>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>千秋岁</text>
+       </navLabel>
+       <content src="text00009.html"/>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>菩萨蛮</text>
+       </navLabel>
+       <content src="text00010.html"/>
+     </navPoint>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>醉垂鞭</text>
+       </navLabel>
+       <content src="text00011.html"/>
+     </navPoint>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>一丛花</text>
+       </navLabel>
+       <content src="text00012.html"/>
+     </navPoint>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>天仙子</text>
+       </navLabel>
+       <content src="text00013.html"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>青门引</text>
+       </navLabel>
+       <content src="text00014.html"/>
+     </navPoint>
+     <navPoint id="id16" playOrder="16">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00015.html"/>
+     </navPoint>
+     <navPoint id="id17" playOrder="17">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00016.html"/>
+     </navPoint>
+     <navPoint id="id18" playOrder="18">
+       <navLabel>
+         <text>清平乐</text>
+       </navLabel>
+       <content src="text00017.html"/>
+     </navPoint>
+     <navPoint id="id19" playOrder="19">
+       <navLabel>
+         <text>清平乐</text>
+       </navLabel>
+       <content src="text00018.html"/>
+     </navPoint>
+     <navPoint id="id20" playOrder="20">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00019.html"/>
+     </navPoint>
+     <navPoint id="id21" playOrder="21">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00020.html"/>
+     </navPoint>
+     <navPoint id="id22" playOrder="22">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00021.html"/>
+     </navPoint>
+     <navPoint id="id23" playOrder="23">
+       <navLabel>
+         <text>踏莎行</text>
+       </navLabel>
+       <content src="text00022.html"/>
+     </navPoint>
+     <navPoint id="id24" playOrder="24">
+       <navLabel>
+         <text>踏莎行</text>
+       </navLabel>
+       <content src="text00023.html"/>
+     </navPoint>
+     <navPoint id="id25" playOrder="25">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00024.html"/>
+     </navPoint>
+     <navPoint id="id26" playOrder="26">
+       <navLabel>
+         <text>凤箫吟</text>
+       </navLabel>
+       <content src="text00025.html"/>
+     </navPoint>
+     <navPoint id="id27" playOrder="27">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00026.html"/>
+     </navPoint>
+     <navPoint id="id28" playOrder="28">
+       <navLabel>
+         <text>采桑子</text>
+       </navLabel>
+       <content src="text00027.html"/>
+     </navPoint>
+     <navPoint id="id29" playOrder="29">
+       <navLabel>
+         <text>诉衷情</text>
+       </navLabel>
+       <content src="text00028.html"/>
+     </navPoint>
+     <navPoint id="id30" playOrder="30">
+       <navLabel>
+         <text>踏莎行</text>
+       </navLabel>
+       <content src="text00029.html"/>
+     </navPoint>
+     <navPoint id="id31" playOrder="31">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00030.html"/>
+     </navPoint>
+     <navPoint id="id32" playOrder="32">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00031.html"/>
+     </navPoint>
+     <navPoint id="id33" playOrder="33">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00032.html"/>
+     </navPoint>
+     <navPoint id="id34" playOrder="34">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00033.html"/>
+     </navPoint>
+     <navPoint id="id35" playOrder="35">
+       <navLabel>
+         <text>浪淘沙</text>
+       </navLabel>
+       <content src="text00034.html"/>
+     </navPoint>
+     <navPoint id="id36" playOrder="36">
+       <navLabel>
+         <text>青玉案</text>
+       </navLabel>
+       <content src="text00035.html"/>
+     </navPoint>
+     <navPoint id="id37" playOrder="37">
+       <navLabel>
+         <text>曲玉管</text>
+       </navLabel>
+       <content src="text00036.html"/>
+     </navPoint>
+     <navPoint id="id38" playOrder="38">
+       <navLabel>
+         <text>雨霖铃</text>
+       </navLabel>
+       <content src="text00037.html"/>
+     </navPoint>
+     <navPoint id="id39" playOrder="39">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00038.html"/>
+     </navPoint>
+     <navPoint id="id40" playOrder="40">
+       <navLabel>
+         <text>采莲令</text>
+       </navLabel>
+       <content src="text00039.html"/>
+     </navPoint>
+     <navPoint id="id41" playOrder="41">
+       <navLabel>
+         <text>浪淘沙慢</text>
+       </navLabel>
+       <content src="text00040.html"/>
+     </navPoint>
+     <navPoint id="id42" playOrder="42">
+       <navLabel>
+         <text>定风波</text>
+       </navLabel>
+       <content src="text00041.html"/>
+     </navPoint>
+     <navPoint id="id43" playOrder="43">
+       <navLabel>
+         <text>少年游</text>
+       </navLabel>
+       <content src="text00042.html"/>
+     </navPoint>
+     <navPoint id="id44" playOrder="44">
+       <navLabel>
+         <text>戚氏</text>
+       </navLabel>
+       <content src="text00043.html"/>
+     </navPoint>
+     <navPoint id="id45" playOrder="45">
+       <navLabel>
+         <text>夜半乐</text>
+       </navLabel>
+       <content src="text00044.html"/>
+     </navPoint>
+     <navPoint id="id46" playOrder="46">
+       <navLabel>
+         <text>玉蝴蝶</text>
+       </navLabel>
+       <content src="text00045.html"/>
+     </navPoint>
+     <navPoint id="id47" playOrder="47">
+       <navLabel>
+         <text>八声甘州</text>
+       </navLabel>
+       <content src="text00046.html"/>
+     </navPoint>
+     <navPoint id="id48" playOrder="48">
+       <navLabel>
+         <text>迷神引</text>
+       </navLabel>
+       <content src="text00047.html"/>
+     </navPoint>
+     <navPoint id="id49" playOrder="49">
+       <navLabel>
+         <text>竹马子</text>
+       </navLabel>
+       <content src="text00048.html"/>
+     </navPoint>
+     <navPoint id="id50" playOrder="50">
+       <navLabel>
+         <text>桂枝香</text>
+       </navLabel>
+       <content src="text00049.html"/>
+     </navPoint>
+     <navPoint id="id51" playOrder="51">
+       <navLabel>
+         <text>千秋岁引</text>
+       </navLabel>
+       <content src="text00050.html"/>
+     </navPoint>
+     <navPoint id="id52" playOrder="52">
+       <navLabel>
+         <text>清平乐</text>
+       </navLabel>
+       <content src="text00051.html"/>
+     </navPoint>
+     <navPoint id="id53" playOrder="53">
+       <navLabel>
+         <text>临江仙</text>
+       </navLabel>
+       <content src="text00052.html"/>
+     </navPoint>
+     <navPoint id="id54" playOrder="54">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00053.html"/>
+     </navPoint>
+     <navPoint id="id55" playOrder="55">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00054.html"/>
+     </navPoint>
+     <navPoint id="id56" playOrder="56">
+       <navLabel>
+         <text>鹧鸪天</text>
+       </navLabel>
+       <content src="text00055.html"/>
+     </navPoint>
+     <navPoint id="id57" playOrder="57">
+       <navLabel>
+         <text>生查子</text>
+       </navLabel>
+       <content src="text00056.html"/>
+     </navPoint>
+     <navPoint id="id58" playOrder="58">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00057.html"/>
+     </navPoint>
+     <navPoint id="id59" playOrder="59">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00058.html"/>
+     </navPoint>
+     <navPoint id="id60" playOrder="60">
+       <navLabel>
+         <text>清平乐</text>
+       </navLabel>
+       <content src="text00059.html"/>
+     </navPoint>
+     <navPoint id="id61" playOrder="61">
+       <navLabel>
+         <text>阮郎归</text>
+       </navLabel>
+       <content src="text00060.html"/>
+     </navPoint>
+     <navPoint id="id62" playOrder="62">
+       <navLabel>
+         <text>阮郎归</text>
+       </navLabel>
+       <content src="text00061.html"/>
+     </navPoint>
+     <navPoint id="id63" playOrder="63">
+       <navLabel>
+         <text>六幺令</text>
+       </navLabel>
+       <content src="text00062.html"/>
+     </navPoint>
+     <navPoint id="id64" playOrder="64">
+       <navLabel>
+         <text>御街行</text>
+       </navLabel>
+       <content src="text00063.html"/>
+     </navPoint>
+     <navPoint id="id65" playOrder="65">
+       <navLabel>
+         <text>虞美人</text>
+       </navLabel>
+       <content src="text00064.html"/>
+     </navPoint>
+     <navPoint id="id66" playOrder="66">
+       <navLabel>
+         <text>留春令</text>
+       </navLabel>
+       <content src="text00065.html"/>
+     </navPoint>
+     <navPoint id="id67" playOrder="67">
+       <navLabel>
+         <text>思远人</text>
+       </navLabel>
+       <content src="text00066.html"/>
+     </navPoint>
+     <navPoint id="id68" playOrder="68">
+       <navLabel>
+         <text>水调歌头</text>
+       </navLabel>
+       <content src="text00067.html"/>
+     </navPoint>
+     <navPoint id="id69" playOrder="69">
+       <navLabel>
+         <text>水龙吟</text>
+       </navLabel>
+       <content src="text00068.html"/>
+     </navPoint>
+     <navPoint id="id70" playOrder="70">
+       <navLabel>
+         <text>永遇乐</text>
+       </navLabel>
+       <content src="text00069.html"/>
+     </navPoint>
+     <navPoint id="id71" playOrder="71">
+       <navLabel>
+         <text>洞仙歌</text>
+       </navLabel>
+       <content src="text00070.html"/>
+     </navPoint>
+     <navPoint id="id72" playOrder="72">
+       <navLabel>
+         <text>卜算子</text>
+       </navLabel>
+       <content src="text00071.html"/>
+     </navPoint>
+     <navPoint id="id73" playOrder="73">
+       <navLabel>
+         <text>青玉案</text>
+       </navLabel>
+       <content src="text00072.html"/>
+     </navPoint>
+     <navPoint id="id74" playOrder="74">
+       <navLabel>
+         <text>临江仙</text>
+       </navLabel>
+       <content src="text00073.html"/>
+     </navPoint>
+     <navPoint id="id75" playOrder="75">
+       <navLabel>
+         <text>定风波</text>
+       </navLabel>
+       <content src="text00074.html"/>
+     </navPoint>
+     <navPoint id="id76" playOrder="76">
+       <navLabel>
+         <text>江城子</text>
+       </navLabel>
+       <content src="text00075.html"/>
+     </navPoint>
+     <navPoint id="id77" playOrder="77">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00076.html"/>
+     </navPoint>
+     <navPoint id="id78" playOrder="78">
+       <navLabel>
+         <text>望海潮</text>
+       </navLabel>
+       <content src="text00077.html"/>
+     </navPoint>
+     <navPoint id="id79" playOrder="79">
+       <navLabel>
+         <text>八六子</text>
+       </navLabel>
+       <content src="text00078.html"/>
+     </navPoint>
+     <navPoint id="id80" playOrder="80">
+       <navLabel>
+         <text>满庭芳</text>
+       </navLabel>
+       <content src="text00079.html"/>
+     </navPoint>
+     <navPoint id="id81" playOrder="81">
+       <navLabel>
+         <text>满庭芳</text>
+       </navLabel>
+       <content src="text00080.html"/>
+     </navPoint>
+     <navPoint id="id82" playOrder="82">
+       <navLabel>
+         <text>减字木兰花</text>
+       </navLabel>
+       <content src="text00081.html"/>
+     </navPoint>
+     <navPoint id="id83" playOrder="83">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00082.html"/>
+     </navPoint>
+     <navPoint id="id84" playOrder="84">
+       <navLabel>
+         <text>阮郎归</text>
+       </navLabel>
+       <content src="text00083.html"/>
+     </navPoint>
+     <navPoint id="id85" playOrder="85">
+       <navLabel>
+         <text>绿头鸭</text>
+       </navLabel>
+       <content src="text00084.html"/>
+     </navPoint>
+     <navPoint id="id86" playOrder="86">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00085.html"/>
+     </navPoint>
+     <navPoint id="id87" playOrder="87">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00086.html"/>
+     </navPoint>
+     <navPoint id="id88" playOrder="88">
+       <navLabel>
+         <text>清平乐</text>
+       </navLabel>
+       <content src="text00087.html"/>
+     </navPoint>
+     <navPoint id="id89" playOrder="89">
+       <navLabel>
+         <text>水龙吟</text>
+       </navLabel>
+       <content src="text00088.html"/>
+     </navPoint>
+     <navPoint id="id90" playOrder="90">
+       <navLabel>
+         <text>忆少年</text>
+       </navLabel>
+       <content src="text00089.html"/>
+     </navPoint>
+     <navPoint id="id91" playOrder="91">
+       <navLabel>
+         <text>洞仙歌</text>
+       </navLabel>
+       <content src="text00090.html"/>
+     </navPoint>
+     <navPoint id="id92" playOrder="92">
+       <navLabel>
+         <text>临江仙</text>
+       </navLabel>
+       <content src="text00091.html"/>
+     </navPoint>
+     <navPoint id="id93" playOrder="93">
+       <navLabel>
+         <text>虞美人</text>
+       </navLabel>
+       <content src="text00092.html"/>
+     </navPoint>
+     <navPoint id="id94" playOrder="94">
+       <navLabel>
+         <text>渔家傲</text>
+       </navLabel>
+       <content src="text00093.html"/>
+     </navPoint>
+     <navPoint id="id95" playOrder="95">
+       <navLabel>
+         <text>惜分飞</text>
+       </navLabel>
+       <content src="text00094.html"/>
+     </navPoint>
+     <navPoint id="id96" playOrder="96">
+       <navLabel>
+         <text>菩萨蛮</text>
+       </navLabel>
+       <content src="text00095.html"/>
+     </navPoint>
+     <navPoint id="id97" playOrder="97">
+       <navLabel>
+         <text>菩萨蛮</text>
+       </navLabel>
+       <content src="text00096.html"/>
+     </navPoint>
+     <navPoint id="id98" playOrder="98">
+       <navLabel>
+         <text>洞仙歌</text>
+       </navLabel>
+       <content src="text00097.html"/>
+     </navPoint>
+     <navPoint id="id99" playOrder="99">
+       <navLabel>
+         <text>青门饮</text>
+       </navLabel>
+       <content src="text00098.html"/>
+     </navPoint>
+     <navPoint id="id100" playOrder="100">
+       <navLabel>
+         <text>谢池春</text>
+       </navLabel>
+       <content src="text00099.html"/>
+     </navPoint>
+     <navPoint id="id101" playOrder="101">
+       <navLabel>
+         <text>卜算子</text>
+       </navLabel>
+       <content src="text00100.html"/>
+     </navPoint>
+     <navPoint id="id102" playOrder="102">
+       <navLabel>
+         <text>瑞龙吟</text>
+       </navLabel>
+       <content src="text00101.html"/>
+     </navPoint>
+     <navPoint id="id103" playOrder="103">
+       <navLabel>
+         <text>风流子</text>
+       </navLabel>
+       <content src="text00102.html"/>
+     </navPoint>
+     <navPoint id="id104" playOrder="104">
+       <navLabel>
+         <text>兰陵王</text>
+       </navLabel>
+       <content src="text00103.html"/>
+     </navPoint>
+     <navPoint id="id105" playOrder="105">
+       <navLabel>
+         <text>琐窗寒</text>
+       </navLabel>
+       <content src="text00104.html"/>
+     </navPoint>
+     <navPoint id="id106" playOrder="106">
+       <navLabel>
+         <text>六丑</text>
+       </navLabel>
+       <content src="text00105.html"/>
+     </navPoint>
+     <navPoint id="id107" playOrder="107">
+       <navLabel>
+         <text>夜飞鹊</text>
+       </navLabel>
+       <content src="text00106.html"/>
+     </navPoint>
+     <navPoint id="id108" playOrder="108">
+       <navLabel>
+         <text>满庭芳</text>
+       </navLabel>
+       <content src="text00107.html"/>
+     </navPoint>
+     <navPoint id="id109" playOrder="109">
+       <navLabel>
+         <text>过秦楼</text>
+       </navLabel>
+       <content src="text00108.html"/>
+     </navPoint>
+     <navPoint id="id110" playOrder="110">
+       <navLabel>
+         <text>花犯</text>
+       </navLabel>
+       <content src="text00109.html"/>
+     </navPoint>
+     <navPoint id="id111" playOrder="111">
+       <navLabel>
+         <text>大酺</text>
+       </navLabel>
+       <content src="text00110.html"/>
+     </navPoint>
+     <navPoint id="id112" playOrder="112">
+       <navLabel>
+         <text>解语花</text>
+       </navLabel>
+       <content src="text00111.html"/>
+     </navPoint>
+     <navPoint id="id113" playOrder="113">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00112.html"/>
+     </navPoint>
+     <navPoint id="id114" playOrder="114">
+       <navLabel>
+         <text>解连环</text>
+       </navLabel>
+       <content src="text00113.html"/>
+     </navPoint>
+     <navPoint id="id115" playOrder="115">
+       <navLabel>
+         <text>拜星月慢</text>
+       </navLabel>
+       <content src="text00114.html"/>
+     </navPoint>
+     <navPoint id="id116" playOrder="116">
+       <navLabel>
+         <text>关河令</text>
+       </navLabel>
+       <content src="text00115.html"/>
+     </navPoint>
+     <navPoint id="id117" playOrder="117">
+       <navLabel>
+         <text>绮寮怨</text>
+       </navLabel>
+       <content src="text00116.html"/>
+     </navPoint>
+     <navPoint id="id118" playOrder="118">
+       <navLabel>
+         <text>尉迟杯</text>
+       </navLabel>
+       <content src="text00117.html"/>
+     </navPoint>
+     <navPoint id="id119" playOrder="119">
+       <navLabel>
+         <text>西河</text>
+       </navLabel>
+       <content src="text00118.html"/>
+     </navPoint>
+     <navPoint id="id120" playOrder="120">
+       <navLabel>
+         <text>瑞鹤仙</text>
+       </navLabel>
+       <content src="text00119.html"/>
+     </navPoint>
+     <navPoint id="id121" playOrder="121">
+       <navLabel>
+         <text>浪淘沙慢</text>
+       </navLabel>
+       <content src="text00120.html"/>
+     </navPoint>
+     <navPoint id="id122" playOrder="122">
+       <navLabel>
+         <text>应天长</text>
+       </navLabel>
+       <content src="text00121.html"/>
+     </navPoint>
+     <navPoint id="id123" playOrder="123">
+       <navLabel>
+         <text>夜游宫</text>
+       </navLabel>
+       <content src="text00122.html"/>
+     </navPoint>
+     <navPoint id="id124" playOrder="124">
+       <navLabel>
+         <text>青玉案</text>
+       </navLabel>
+       <content src="text00123.html"/>
+     </navPoint>
+     <navPoint id="id125" playOrder="125">
+       <navLabel>
+         <text>感皇恩</text>
+       </navLabel>
+       <content src="text00124.html"/>
+     </navPoint>
+     <navPoint id="id126" playOrder="126">
+       <navLabel>
+         <text>薄幸</text>
+       </navLabel>
+       <content src="text00125.html"/>
+     </navPoint>
+     <navPoint id="id127" playOrder="127">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00126.html"/>
+     </navPoint>
+     <navPoint id="id128" playOrder="128">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00127.html"/>
+     </navPoint>
+     <navPoint id="id129" playOrder="129">
+       <navLabel>
+         <text>石州慢</text>
+       </navLabel>
+       <content src="text00128.html"/>
+     </navPoint>
+     <navPoint id="id130" playOrder="130">
+       <navLabel>
+         <text>蝶恋花</text>
+       </navLabel>
+       <content src="text00129.html"/>
+     </navPoint>
+     <navPoint id="id131" playOrder="131">
+       <navLabel>
+         <text>天门谣</text>
+       </navLabel>
+       <content src="text00130.html"/>
+     </navPoint>
+     <navPoint id="id132" playOrder="132">
+       <navLabel>
+         <text>天香</text>
+       </navLabel>
+       <content src="text00131.html"/>
+     </navPoint>
+     <navPoint id="id133" playOrder="133">
+       <navLabel>
+         <text>望湘人</text>
+       </navLabel>
+       <content src="text00132.html"/>
+     </navPoint>
+     <navPoint id="id134" playOrder="134">
+       <navLabel>
+         <text>绿头鸭</text>
+       </navLabel>
+       <content src="text00133.html"/>
+     </navPoint>
+     <navPoint id="id135" playOrder="135">
+       <navLabel>
+         <text>石州慢</text>
+       </navLabel>
+       <content src="text00134.html"/>
+     </navPoint>
+     <navPoint id="id136" playOrder="136">
+       <navLabel>
+         <text>兰陵王</text>
+       </navLabel>
+       <content src="text00135.html"/>
+     </navPoint>
+     <navPoint id="id137" playOrder="137">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00136.html"/>
+     </navPoint>
+     <navPoint id="id138" playOrder="138">
+       <navLabel>
+         <text>虞美人</text>
+       </navLabel>
+       <content src="text00137.html"/>
+     </navPoint>
+     <navPoint id="id139" playOrder="139">
+       <navLabel>
+         <text>点绛唇</text>
+       </navLabel>
+       <content src="text00138.html"/>
+     </navPoint>
+     <navPoint id="id140" playOrder="140">
+       <navLabel>
+         <text>喜迁莺</text>
+       </navLabel>
+       <content src="text00139.html"/>
+     </navPoint>
+     <navPoint id="id141" playOrder="141">
+       <navLabel>
+         <text>高阳台</text>
+       </navLabel>
+       <content src="text00140.html"/>
+     </navPoint>
+     <navPoint id="id142" playOrder="142">
+       <navLabel>
+         <text>汉宫春</text>
+       </navLabel>
+       <content src="text00141.html"/>
+     </navPoint>
+     <navPoint id="id143" playOrder="143">
+       <navLabel>
+         <text>临江仙</text>
+       </navLabel>
+       <content src="text00142.html"/>
+     </navPoint>
+     <navPoint id="id144" playOrder="144">
+       <navLabel>
+         <text>临江仙</text>
+       </navLabel>
+       <content src="text00143.html"/>
+     </navPoint>
+     <navPoint id="id145" playOrder="145">
+       <navLabel>
+         <text>苏武慢</text>
+       </navLabel>
+       <content src="text00144.html"/>
+     </navPoint>
+     <navPoint id="id146" playOrder="146">
+       <navLabel>
+         <text>柳梢青</text>
+       </navLabel>
+       <content src="text00145.html"/>
+     </navPoint>
+     <navPoint id="id147" playOrder="147">
+       <navLabel>
+         <text>鹧鸪天</text>
+       </navLabel>
+       <content src="text00146.html"/>
+     </navPoint>
+     <navPoint id="id148" playOrder="148">
+       <navLabel>
+         <text>踏莎行</text>
+       </navLabel>
+       <content src="text00147.html"/>
+     </navPoint>
+     <navPoint id="id149" playOrder="149">
+       <navLabel>
+         <text>帝台春</text>
+       </navLabel>
+       <content src="text00148.html"/>
+     </navPoint>
+     <navPoint id="id150" playOrder="150">
+       <navLabel>
+         <text>忆王孙</text>
+       </navLabel>
+       <content src="text00149.html"/>
+     </navPoint>
+     <navPoint id="id151" playOrder="151">
+       <navLabel>
+         <text>三台</text>
+       </navLabel>
+       <content src="text00150.html"/>
+     </navPoint>
+     <navPoint id="id152" playOrder="152">
+       <navLabel>
+         <text>二郎神</text>
+       </navLabel>
+       <content src="text00151.html"/>
+     </navPoint>
+     <navPoint id="id153" playOrder="153">
+       <navLabel>
+         <text>江神子慢</text>
+       </navLabel>
+       <content src="text00152.html"/>
+     </navPoint>
+     <navPoint id="id154" playOrder="154">
+       <navLabel>
+         <text>蓦山溪</text>
+       </navLabel>
+       <content src="text00153.html"/>
+     </navPoint>
+     <navPoint id="id155" playOrder="155">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00154.html"/>
+     </navPoint>
+     <navPoint id="id156" playOrder="156">
+       <navLabel>
+         <text>烛影摇红</text>
+       </navLabel>
+       <content src="text00155.html"/>
+     </navPoint>
+     <navPoint id="id157" playOrder="157">
+       <navLabel>
+         <text>薄幸</text>
+       </navLabel>
+       <content src="text00156.html"/>
+     </navPoint>
+     <navPoint id="id158" playOrder="158">
+       <navLabel>
+         <text>南浦</text>
+       </navLabel>
+       <content src="text00157.html"/>
+     </navPoint>
+     <navPoint id="id159" playOrder="159">
+       <navLabel>
+         <text>满江红</text>
+       </navLabel>
+       <content src="text00158.html"/>
+     </navPoint>
+     <navPoint id="id160" playOrder="160">
+       <navLabel>
+         <text>烛影摇红</text>
+       </navLabel>
+       <content src="text00159.html"/>
+     </navPoint>
+     <navPoint id="id161" playOrder="161">
+       <navLabel>
+         <text>水龙吟</text>
+       </navLabel>
+       <content src="text00160.html"/>
+     </navPoint>
+     <navPoint id="id162" playOrder="162">
+       <navLabel>
+         <text>六州歌头</text>
+       </navLabel>
+       <content src="text00161.html"/>
+     </navPoint>
+     <navPoint id="id163" playOrder="163">
+       <navLabel>
+         <text>念奴娇</text>
+       </navLabel>
+       <content src="text00162.html"/>
+     </navPoint>
+     <navPoint id="id164" playOrder="164">
+       <navLabel>
+         <text>六州歌头</text>
+       </navLabel>
+       <content src="text00163.html"/>
+     </navPoint>
+     <navPoint id="id165" playOrder="165">
+       <navLabel>
+         <text>好事近</text>
+       </navLabel>
+       <content src="text00164.html"/>
+     </navPoint>
+     <navPoint id="id166" playOrder="166">
+       <navLabel>
+         <text>瑞鹤仙</text>
+       </navLabel>
+       <content src="text00165.html"/>
+     </navPoint>
+     <navPoint id="id167" playOrder="167">
+       <navLabel>
+         <text>剑器近</text>
+       </navLabel>
+       <content src="text00166.html"/>
+     </navPoint>
+     <navPoint id="id168" playOrder="168">
+       <navLabel>
+         <text>安公子</text>
+       </navLabel>
+       <content src="text00167.html"/>
+     </navPoint>
+     <navPoint id="id169" playOrder="169">
+       <navLabel>
+         <text>瑞鹤仙</text>
+       </navLabel>
+       <content src="text00168.html"/>
+     </navPoint>
+     <navPoint id="id170" playOrder="170">
+       <navLabel>
+         <text>卜算子</text>
+       </navLabel>
+       <content src="text00169.html"/>
+     </navPoint>
+     <navPoint id="id171" playOrder="171">
+       <navLabel>
+         <text>水龙吟</text>
+       </navLabel>
+       <content src="text00170.html"/>
+     </navPoint>
+     <navPoint id="id172" playOrder="172">
+       <navLabel>
+         <text>忆秦娥</text>
+       </navLabel>
+       <content src="text00171.html"/>
+     </navPoint>
+     <navPoint id="id173" playOrder="173">
+       <navLabel>
+         <text>眼儿媚</text>
+       </navLabel>
+       <content src="text00172.html"/>
+     </navPoint>
+     <navPoint id="id174" playOrder="174">
+       <navLabel>
+         <text>霜天晓角</text>
+       </navLabel>
+       <content src="text00173.html"/>
+     </navPoint>
+     <navPoint id="id175" playOrder="175">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00174.html"/>
+     </navPoint>
+     <navPoint id="id176" playOrder="176">
+       <navLabel>
+         <text>念奴娇</text>
+       </navLabel>
+       <content src="text00175.html"/>
+     </navPoint>
+     <navPoint id="id177" playOrder="177">
+       <navLabel>
+         <text>汉宫春</text>
+       </navLabel>
+       <content src="text00176.html"/>
+     </navPoint>
+     <navPoint id="id178" playOrder="178">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00177.html"/>
+     </navPoint>
+     <navPoint id="id179" playOrder="179">
+       <navLabel>
+         <text>水龙吟</text>
+       </navLabel>
+       <content src="text00178.html"/>
+     </navPoint>
+     <navPoint id="id180" playOrder="180">
+       <navLabel>
+         <text>摸鱼儿</text>
+       </navLabel>
+       <content src="text00179.html"/>
+     </navPoint>
+     <navPoint id="id181" playOrder="181">
+       <navLabel>
+         <text>永遇乐</text>
+       </navLabel>
+       <content src="text00180.html"/>
+     </navPoint>
+     <navPoint id="id182" playOrder="182">
+       <navLabel>
+         <text>木兰花慢</text>
+       </navLabel>
+       <content src="text00181.html"/>
+     </navPoint>
+     <navPoint id="id183" playOrder="183">
+       <navLabel>
+         <text>祝英台近</text>
+       </navLabel>
+       <content src="text00182.html"/>
+     </navPoint>
+     <navPoint id="id184" playOrder="184">
+       <navLabel>
+         <text>青玉案</text>
+       </navLabel>
+       <content src="text00183.html"/>
+     </navPoint>
+     <navPoint id="id185" playOrder="185">
+       <navLabel>
+         <text>鹧鸪天</text>
+       </navLabel>
+       <content src="text00184.html"/>
+     </navPoint>
+     <navPoint id="id186" playOrder="186">
+       <navLabel>
+         <text>菩萨蛮</text>
+       </navLabel>
+       <content src="text00185.html"/>
+     </navPoint>
+     <navPoint id="id187" playOrder="187">
+       <navLabel>
+         <text>点绛唇</text>
+       </navLabel>
+       <content src="text00186.html"/>
+     </navPoint>
+     <navPoint id="id188" playOrder="188">
+       <navLabel>
+         <text>鹧鸪天</text>
+       </navLabel>
+       <content src="text00187.html"/>
+     </navPoint>
+     <navPoint id="id189" playOrder="189">
+       <navLabel>
+         <text>踏莎行</text>
+       </navLabel>
+       <content src="text00188.html"/>
+     </navPoint>
+     <navPoint id="id190" playOrder="190">
+       <navLabel>
+         <text>庆宫春</text>
+       </navLabel>
+       <content src="text00189.html"/>
+     </navPoint>
+     <navPoint id="id191" playOrder="191">
+       <navLabel>
+         <text>齐天乐</text>
+       </navLabel>
+       <content src="text00190.html"/>
+     </navPoint>
+     <navPoint id="id192" playOrder="192">
+       <navLabel>
+         <text>琵琶仙</text>
+       </navLabel>
+       <content src="text00191.html"/>
+     </navPoint>
+     <navPoint id="id193" playOrder="193">
+       <navLabel>
+         <text>八归</text>
+       </navLabel>
+       <content src="text00192.html"/>
+     </navPoint>
+     <navPoint id="id194" playOrder="194">
+       <navLabel>
+         <text>念奴娇</text>
+       </navLabel>
+       <content src="text00193.html"/>
+     </navPoint>
+     <navPoint id="id195" playOrder="195">
+       <navLabel>
+         <text>扬州慢</text>
+       </navLabel>
+       <content src="text00194.html"/>
+     </navPoint>
+     <navPoint id="id196" playOrder="196">
+       <navLabel>
+         <text>长亭怨慢</text>
+       </navLabel>
+       <content src="text00195.html"/>
+     </navPoint>
+     <navPoint id="id197" playOrder="197">
+       <navLabel>
+         <text>淡黄柳</text>
+       </navLabel>
+       <content src="text00196.html"/>
+     </navPoint>
+     <navPoint id="id198" playOrder="198">
+       <navLabel>
+         <text>暗香</text>
+       </navLabel>
+       <content src="text00197.html"/>
+     </navPoint>
+     <navPoint id="id199" playOrder="199">
+       <navLabel>
+         <text>疏影</text>
+       </navLabel>
+       <content src="text00198.html"/>
+     </navPoint>
+     <navPoint id="id200" playOrder="200">
+       <navLabel>
+         <text>翠楼吟</text>
+       </navLabel>
+       <content src="text00199.html"/>
+     </navPoint>
+     <navPoint id="id201" playOrder="201">
+       <navLabel>
+         <text>杏花天影</text>
+       </navLabel>
+       <content src="text00200.html"/>
+     </navPoint>
+     <navPoint id="id202" playOrder="202">
+       <navLabel>
+         <text>一萼红</text>
+       </navLabel>
+       <content src="text00201.html"/>
+     </navPoint>
+     <navPoint id="id203" playOrder="203">
+       <navLabel>
+         <text>霓裳中序第一</text>
+       </navLabel>
+       <content src="text00202.html"/>
+     </navPoint>
+     <navPoint id="id204" playOrder="204">
+       <navLabel>
+         <text>小重山</text>
+       </navLabel>
+       <content src="text00203.html"/>
+     </navPoint>
+     <navPoint id="id205" playOrder="205">
+       <navLabel>
+         <text>唐多令</text>
+       </navLabel>
+       <content src="text00204.html"/>
+     </navPoint>
+     <navPoint id="id206" playOrder="206">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00205.html"/>
+     </navPoint>
+     <navPoint id="id207" playOrder="207">
+       <navLabel>
+         <text>风入松</text>
+       </navLabel>
+       <content src="text00206.html"/>
+     </navPoint>
+     <navPoint id="id208" playOrder="208">
+       <navLabel>
+         <text>满庭芳</text>
+       </navLabel>
+       <content src="text00207.html"/>
+     </navPoint>
+     <navPoint id="id209" playOrder="209">
+       <navLabel>
+         <text>宴山亭</text>
+       </navLabel>
+       <content src="text00208.html"/>
+     </navPoint>
+     <navPoint id="id210" playOrder="210">
+       <navLabel>
+         <text>绮罗香</text>
+       </navLabel>
+       <content src="text00209.html"/>
+     </navPoint>
+     <navPoint id="id211" playOrder="211">
+       <navLabel>
+         <text>双双燕</text>
+       </navLabel>
+       <content src="text00210.html"/>
+     </navPoint>
+     <navPoint id="id212" playOrder="212">
+       <navLabel>
+         <text>东风第一枝</text>
+       </navLabel>
+       <content src="text00211.html"/>
+     </navPoint>
+     <navPoint id="id213" playOrder="213">
+       <navLabel>
+         <text>喜迁莺</text>
+       </navLabel>
+       <content src="text00212.html"/>
+     </navPoint>
+     <navPoint id="id214" playOrder="214">
+       <navLabel>
+         <text>三姝媚</text>
+       </navLabel>
+       <content src="text00213.html"/>
+     </navPoint>
+     <navPoint id="id215" playOrder="215">
+       <navLabel>
+         <text>秋霁</text>
+       </navLabel>
+       <content src="text00214.html"/>
+     </navPoint>
+     <navPoint id="id216" playOrder="216">
+       <navLabel>
+         <text>夜合花</text>
+       </navLabel>
+       <content src="text00215.html"/>
+     </navPoint>
+     <navPoint id="id217" playOrder="217">
+       <navLabel>
+         <text>玉蝴蝶</text>
+       </navLabel>
+       <content src="text00216.html"/>
+     </navPoint>
+     <navPoint id="id218" playOrder="218">
+       <navLabel>
+         <text>八归</text>
+       </navLabel>
+       <content src="text00217.html"/>
+     </navPoint>
+     <navPoint id="id219" playOrder="219">
+       <navLabel>
+         <text>生查子</text>
+       </navLabel>
+       <content src="text00218.html"/>
+     </navPoint>
+     <navPoint id="id220" playOrder="220">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00219.html"/>
+     </navPoint>
+     <navPoint id="id221" playOrder="221">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00220.html"/>
+     </navPoint>
+     <navPoint id="id222" playOrder="222">
+       <navLabel>
+         <text>木兰花</text>
+       </navLabel>
+       <content src="text00221.html"/>
+     </navPoint>
+     <navPoint id="id223" playOrder="223">
+       <navLabel>
+         <text>江城子</text>
+       </navLabel>
+       <content src="text00222.html"/>
+     </navPoint>
+     <navPoint id="id224" playOrder="224">
+       <navLabel>
+         <text>宴清都</text>
+       </navLabel>
+       <content src="text00223.html"/>
+     </navPoint>
+     <navPoint id="id225" playOrder="225">
+       <navLabel>
+         <text>南乡子</text>
+       </navLabel>
+       <content src="text00224.html"/>
+     </navPoint>
+     <navPoint id="id226" playOrder="226">
+       <navLabel>
+         <text>瑞鹤仙</text>
+       </navLabel>
+       <content src="text00225.html"/>
+     </navPoint>
+     <navPoint id="id227" playOrder="227">
+       <navLabel>
+         <text>渡江云</text>
+       </navLabel>
+       <content src="text00226.html"/>
+     </navPoint>
+     <navPoint id="id228" playOrder="228">
+       <navLabel>
+         <text>夜合花</text>
+       </navLabel>
+       <content src="text00227.html"/>
+     </navPoint>
+     <navPoint id="id229" playOrder="229">
+       <navLabel>
+         <text>霜叶飞</text>
+       </navLabel>
+       <content src="text00228.html"/>
+     </navPoint>
+     <navPoint id="id230" playOrder="230">
+       <navLabel>
+         <text>宴清都</text>
+       </navLabel>
+       <content src="text00229.html"/>
+     </navPoint>
+     <navPoint id="id231" playOrder="231">
+       <navLabel>
+         <text>齐天乐</text>
+       </navLabel>
+       <content src="text00230.html"/>
+     </navPoint>
+     <navPoint id="id232" playOrder="232">
+       <navLabel>
+         <text>花犯</text>
+       </navLabel>
+       <content src="text00231.html"/>
+     </navPoint>
+     <navPoint id="id233" playOrder="233">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00232.html"/>
+     </navPoint>
+     <navPoint id="id234" playOrder="234">
+       <navLabel>
+         <text>浣溪沙</text>
+       </navLabel>
+       <content src="text00233.html"/>
+     </navPoint>
+     <navPoint id="id235" playOrder="235">
+       <navLabel>
+         <text>点绛唇</text>
+       </navLabel>
+       <content src="text00234.html"/>
+     </navPoint>
+     <navPoint id="id236" playOrder="236">
+       <navLabel>
+         <text>祝英台近</text>
+       </navLabel>
+       <content src="text00235.html"/>
+     </navPoint>
+     <navPoint id="id237" playOrder="237">
+       <navLabel>
+         <text>祝英台近</text>
+       </navLabel>
+       <content src="text00236.html"/>
+     </navPoint>
+     <navPoint id="id238" playOrder="238">
+       <navLabel>
+         <text>澡兰香</text>
+       </navLabel>
+       <content src="text00237.html"/>
+     </navPoint>
+     <navPoint id="id239" playOrder="239">
+       <navLabel>
+         <text>风入松</text>
+       </navLabel>
+       <content src="text00238.html"/>
+     </navPoint>
+     <navPoint id="id240" playOrder="240">
+       <navLabel>
+         <text>莺啼序</text>
+       </navLabel>
+       <content src="text00239.html"/>
+     </navPoint>
+     <navPoint id="id241" playOrder="241">
+       <navLabel>
+         <text>惜黄花慢</text>
+       </navLabel>
+       <content src="text00240.html"/>
+     </navPoint>
+     <navPoint id="id242" playOrder="242">
+       <navLabel>
+         <text>高阳台</text>
+       </navLabel>
+       <content src="text00241.html"/>
+     </navPoint>
+     <navPoint id="id243" playOrder="243">
+       <navLabel>
+         <text>高阳台</text>
+       </navLabel>
+       <content src="text00242.html"/>
+     </navPoint>
+     <navPoint id="id244" playOrder="244">
+       <navLabel>
+         <text>三姝媚</text>
+       </navLabel>
+       <content src="text00243.html"/>
+     </navPoint>
+     <navPoint id="id245" playOrder="245">
+       <navLabel>
+         <text>八声甘州</text>
+       </navLabel>
+       <content src="text00244.html"/>
+     </navPoint>
+     <navPoint id="id246" playOrder="246">
+       <navLabel>
+         <text>踏莎行</text>
+       </navLabel>
+       <content src="text00245.html"/>
+     </navPoint>
+     <navPoint id="id247" playOrder="247">
+       <navLabel>
+         <text>瑞鹤仙</text>
+       </navLabel>
+       <content src="text00246.html"/>
+     </navPoint>
+     <navPoint id="id248" playOrder="248">
+       <navLabel>
+         <text>鹧鸪天</text>
+       </navLabel>
+       <content src="text00247.html"/>
+     </navPoint>
+     <navPoint id="id249" playOrder="249">
+       <navLabel>
+         <text>夜游宫</text>
+       </navLabel>
+       <content src="text00248.html"/>
+     </navPoint>
+     <navPoint id="id250" playOrder="250">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00249.html"/>
+     </navPoint>
+     <navPoint id="id251" playOrder="251">
+       <navLabel>
+         <text>唐多令</text>
+       </navLabel>
+       <content src="text00250.html"/>
+     </navPoint>
+     <navPoint id="id252" playOrder="252">
+       <navLabel>
+         <text>湘春夜月</text>
+       </navLabel>
+       <content src="text00251.html"/>
+     </navPoint>
+     <navPoint id="id253" playOrder="253">
+       <navLabel>
+         <text>大有</text>
+       </navLabel>
+       <content src="text00252.html"/>
+     </navPoint>
+     <navPoint id="id254" playOrder="254">
+       <navLabel>
+         <text>青玉案</text>
+       </navLabel>
+       <content src="text00253.html"/>
+     </navPoint>
+     <navPoint id="id255" playOrder="255">
+       <navLabel>
+         <text>摸鱼儿</text>
+       </navLabel>
+       <content src="text00254.html"/>
+     </navPoint>
+     <navPoint id="id256" playOrder="256">
+       <navLabel>
+         <text>兰陵王</text>
+       </navLabel>
+       <content src="text00255.html"/>
+     </navPoint>
+     <navPoint id="id257" playOrder="257">
+       <navLabel>
+         <text>宝鼎现</text>
+       </navLabel>
+       <content src="text00256.html"/>
+     </navPoint>
+     <navPoint id="id258" playOrder="258">
+       <navLabel>
+         <text>永遇乐</text>
+       </navLabel>
+       <content src="text00257.html"/>
+     </navPoint>
+     <navPoint id="id259" playOrder="259">
+       <navLabel>
+         <text>摸鱼儿</text>
+       </navLabel>
+       <content src="text00258.html"/>
+     </navPoint>
+     <navPoint id="id260" playOrder="260">
+       <navLabel>
+         <text>高阳台</text>
+       </navLabel>
+       <content src="text00259.html"/>
+     </navPoint>
+     <navPoint id="id261" playOrder="261">
+       <navLabel>
+         <text>瑶花慢</text>
+       </navLabel>
+       <content src="text00260.html"/>
+     </navPoint>
+     <navPoint id="id262" playOrder="262">
+       <navLabel>
+         <text>玉京秋</text>
+       </navLabel>
+       <content src="text00261.html"/>
+     </navPoint>
+     <navPoint id="id263" playOrder="263">
+       <navLabel>
+         <text>曲游春</text>
+       </navLabel>
+       <content src="text00262.html"/>
+     </navPoint>
+     <navPoint id="id264" playOrder="264">
+       <navLabel>
+         <text>花犯</text>
+       </navLabel>
+       <content src="text00263.html"/>
+     </navPoint>
+     <navPoint id="id265" playOrder="265">
+       <navLabel>
+         <text>瑞鹤仙</text>
+       </navLabel>
+       <content src="text00264.html"/>
+     </navPoint>
+     <navPoint id="id266" playOrder="266">
+       <navLabel>
+         <text>贺新郎</text>
+       </navLabel>
+       <content src="text00265.html"/>
+     </navPoint>
+     <navPoint id="id267" playOrder="267">
+       <navLabel>
+         <text>女冠子</text>
+       </navLabel>
+       <content src="text00266.html"/>
+     </navPoint>
+     <navPoint id="id268" playOrder="268">
+       <navLabel>
+         <text>高阳台</text>
+       </navLabel>
+       <content src="text00267.html"/>
+     </navPoint>
+     <navPoint id="id269" playOrder="269">
+       <navLabel>
+         <text>渡江云</text>
+       </navLabel>
+       <content src="text00268.html"/>
+     </navPoint>
+     <navPoint id="id270" playOrder="270">
+       <navLabel>
+         <text>八声甘州</text>
+       </navLabel>
+       <content src="text00269.html"/>
+     </navPoint>
+     <navPoint id="id271" playOrder="271">
+       <navLabel>
+         <text>解连环</text>
+       </navLabel>
+       <content src="text00270.html"/>
+     </navPoint>
+     <navPoint id="id272" playOrder="272">
+       <navLabel>
+         <text>疏影</text>
+       </navLabel>
+       <content src="text00271.html"/>
+     </navPoint>
+     <navPoint id="id273" playOrder="273">
+       <navLabel>
+         <text>月下笛</text>
+       </navLabel>
+       <content src="text00272.html"/>
+     </navPoint>
+     <navPoint id="id274" playOrder="274">
+       <navLabel>
+         <text>天香</text>
+       </navLabel>
+       <content src="text00273.html"/>
+     </navPoint>
+     <navPoint id="id275" playOrder="275">
+       <navLabel>
+         <text>眉妩</text>
+       </navLabel>
+       <content src="text00274.html"/>
+     </navPoint>
+     <navPoint id="id276" playOrder="276">
+       <navLabel>
+         <text>齐天乐</text>
+       </navLabel>
+       <content src="text00275.html"/>
+     </navPoint>
+     <navPoint id="id277" playOrder="277">
+       <navLabel>
+         <text>长亭怨慢</text>
+       </navLabel>
+       <content src="text00276.html"/>
+     </navPoint>
+     <navPoint id="id278" playOrder="278">
+       <navLabel>
+         <text>高阳台</text>
+       </navLabel>
+       <content src="text00277.html"/>
+     </navPoint>
+     <navPoint id="id279" playOrder="279">
+       <navLabel>
+         <text>法曲献仙音</text>
+       </navLabel>
+       <content src="text00278.html"/>
+     </navPoint>
+     <navPoint id="id280" playOrder="280">
+       <navLabel>
+         <text>疏影</text>
+       </navLabel>
+       <content src="text00279.html"/>
+     </navPoint>
+     <navPoint id="id281" playOrder="281">
+       <navLabel>
+         <text>六丑</text>
+       </navLabel>
+       <content src="text00280.html"/>
+     </navPoint>
+     <navPoint id="id282" playOrder="282">
+       <navLabel>
+         <text>紫萸香慢</text>
+       </navLabel>
+       <content src="text00281.html"/>
+     </navPoint>
+     <navPoint id="id283" playOrder="283">
+       <navLabel>
+         <text>金明池</text>
+       </navLabel>
+       <content src="text00282.html"/>
+     </navPoint>
+     <navPoint id="id284" playOrder="284">
+       <navLabel>
+         <text>凤凰台上忆吹箫</text>
+       </navLabel>
+       <content src="text00283.html"/>
+     </navPoint>
+     <navPoint id="id285" playOrder="285">
+       <navLabel>
+         <text>醉花阴</text>
+       </navLabel>
+       <content src="text00284.html"/>
+     </navPoint>
+     <navPoint id="id286" playOrder="286">
+       <navLabel>
+         <text>声声慢</text>
+       </navLabel>
+       <content src="text00285.html"/>
+     </navPoint>
+     <navPoint id="id287" playOrder="287">
+       <navLabel>
+         <text>念奴娇</text>
+       </navLabel>
+       <content src="text00286.html"/>
+     </navPoint>
+     <navPoint id="id288" playOrder="288">
+       <navLabel>
+         <text>永遇乐</text>
+       </navLabel>
+       <content src="text00287.html"/>
+     </navPoint>
+     <navPoint id="id289" playOrder="289">
+       <navLabel>
+         <text>作者小传</text>
+       </navLabel>
+       <content src="text00288.html"/>
+     </navPoint>
+   </navMap>
+</ncx>
