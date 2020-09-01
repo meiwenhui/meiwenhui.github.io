@@ -1,0 +1,2828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>出版说明</text>
+       </navLabel>
+       <content src="text00002.html"/>
+     </navPoint>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>前言</text>
+       </navLabel>
+       <content src="text00003.html"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>蘅塘退士原序</text>
+       </navLabel>
+       <content src="text00004.html"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>卷一</text>
+       </navLabel>
+       <content src="text00005.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>五言古诗</text>
+       </navLabel>
+       <content src="text00005.html#sigil_toc_id_1"/>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>张九龄</text>
+       </navLabel>
+       <content src="text00005.html#sigil_toc_id_2"/>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>感遇（二首）</text>
+       </navLabel>
+       <content src="text00006.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00007.html"/>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>下终南山过斛斯山人宿置酒</text>
+       </navLabel>
+       <content src="text00008.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>月下独酌</text>
+       </navLabel>
+       <content src="text00009.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>春思</text>
+       </navLabel>
+       <content src="text00010.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00011.html"/>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>望岳</text>
+       </navLabel>
+       <content src="text00012.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>赠卫八处士</text>
+       </navLabel>
+       <content src="text00013.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>佳人</text>
+       </navLabel>
+       <content src="text00014.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id16" playOrder="16">
+       <navLabel>
+         <text>梦李白（二首）</text>
+       </navLabel>
+       <content src="text00015.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id17" playOrder="17">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00016.html"/>
+     <navPoint id="id18" playOrder="18">
+       <navLabel>
+         <text>送綦毋潜落第还乡</text>
+       </navLabel>
+       <content src="text00017.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id19" playOrder="19">
+       <navLabel>
+         <text>送别</text>
+       </navLabel>
+       <content src="text00018.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id20" playOrder="20">
+       <navLabel>
+         <text>青溪</text>
+       </navLabel>
+       <content src="text00019.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id21" playOrder="21">
+       <navLabel>
+         <text>渭川田家</text>
+       </navLabel>
+       <content src="text00020.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id22" playOrder="22">
+       <navLabel>
+         <text>西施咏</text>
+       </navLabel>
+       <content src="text00021.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id23" playOrder="23">
+       <navLabel>
+         <text>孟浩然</text>
+       </navLabel>
+       <content src="text00022.html"/>
+     <navPoint id="id24" playOrder="24">
+       <navLabel>
+         <text>秋登兰山寄张五</text>
+       </navLabel>
+       <content src="text00023.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id25" playOrder="25">
+       <navLabel>
+         <text>夏日南亭怀辛大</text>
+       </navLabel>
+       <content src="text00024.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id26" playOrder="26">
+       <navLabel>
+         <text>宿业师山房待丁大不至</text>
+       </navLabel>
+       <content src="text00025.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id27" playOrder="27">
+       <navLabel>
+         <text>王昌龄</text>
+       </navLabel>
+       <content src="text00026.html"/>
+     <navPoint id="id28" playOrder="28">
+       <navLabel>
+         <text>同从弟南斋玩月忆山阴崔少府</text>
+       </navLabel>
+       <content src="text00027.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id29" playOrder="29">
+       <navLabel>
+         <text>丘为</text>
+       </navLabel>
+       <content src="text00028.html"/>
+     <navPoint id="id30" playOrder="30">
+       <navLabel>
+         <text>寻西山隐者不遇</text>
+       </navLabel>
+       <content src="text00029.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id31" playOrder="31">
+       <navLabel>
+         <text>綦毋潜</text>
+       </navLabel>
+       <content src="text00030.html"/>
+     <navPoint id="id32" playOrder="32">
+       <navLabel>
+         <text>春泛若耶溪</text>
+       </navLabel>
+       <content src="text00031.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id33" playOrder="33">
+       <navLabel>
+         <text>常建</text>
+       </navLabel>
+       <content src="text00032.html"/>
+     <navPoint id="id34" playOrder="34">
+       <navLabel>
+         <text>宿王昌龄隐居</text>
+       </navLabel>
+       <content src="text00033.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id35" playOrder="35">
+       <navLabel>
+         <text>岑参</text>
+       </navLabel>
+       <content src="text00034.html"/>
+     <navPoint id="id36" playOrder="36">
+       <navLabel>
+         <text>与高适薛据登慈恩寺浮图</text>
+       </navLabel>
+       <content src="text00035.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id37" playOrder="37">
+       <navLabel>
+         <text>元结</text>
+       </navLabel>
+       <content src="text00036.html"/>
+     <navPoint id="id38" playOrder="38">
+       <navLabel>
+         <text>贼退示官吏</text>
+       </navLabel>
+       <content src="text00037.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id39" playOrder="39">
+       <navLabel>
+         <text>韦应物</text>
+       </navLabel>
+       <content src="text00038.html"/>
+     <navPoint id="id40" playOrder="40">
+       <navLabel>
+         <text>郡斋雨中与诸文士燕集</text>
+       </navLabel>
+       <content src="text00039.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id41" playOrder="41">
+       <navLabel>
+         <text>初发扬子寄元大校书</text>
+       </navLabel>
+       <content src="text00040.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id42" playOrder="42">
+       <navLabel>
+         <text>寄全椒山中道士</text>
+       </navLabel>
+       <content src="text00041.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id43" playOrder="43">
+       <navLabel>
+         <text>长安遇冯著</text>
+       </navLabel>
+       <content src="text00042.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id44" playOrder="44">
+       <navLabel>
+         <text>夕次盱眙县</text>
+       </navLabel>
+       <content src="text00043.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id45" playOrder="45">
+       <navLabel>
+         <text>东郊</text>
+       </navLabel>
+       <content src="text00044.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id46" playOrder="46">
+       <navLabel>
+         <text>送杨氏女</text>
+       </navLabel>
+       <content src="text00045.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id47" playOrder="47">
+       <navLabel>
+         <text>柳宗元</text>
+       </navLabel>
+       <content src="text00046.html"/>
+     <navPoint id="id48" playOrder="48">
+       <navLabel>
+         <text>晨诣超师院读禅经</text>
+       </navLabel>
+       <content src="text00047.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id49" playOrder="49">
+       <navLabel>
+         <text>溪居</text>
+       </navLabel>
+       <content src="text00048.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id50" playOrder="50">
+       <navLabel>
+         <text>乐府</text>
+       </navLabel>
+       <content src="text00049.html#sigil_toc_id_3"/>
+     <navPoint id="id51" playOrder="51">
+       <navLabel>
+         <text>王昌龄</text>
+       </navLabel>
+       <content src="text00049.html#sigil_toc_id_3"/>
+     <navPoint id="id52" playOrder="52">
+       <navLabel>
+         <text>塞上曲</text>
+       </navLabel>
+       <content src="text00050.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id53" playOrder="53">
+       <navLabel>
+         <text>塞下曲</text>
+       </navLabel>
+       <content src="text00051.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id54" playOrder="54">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00053.html"/>
+     <navPoint id="id55" playOrder="55">
+       <navLabel>
+         <text>关山月</text>
+       </navLabel>
+       <content src="text00053.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id56" playOrder="56">
+       <navLabel>
+         <text>子夜吴歌</text>
+       </navLabel>
+       <content src="text00054.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id57" playOrder="57">
+       <navLabel>
+         <text>长干行</text>
+       </navLabel>
+       <content src="text00055.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id58" playOrder="58">
+       <navLabel>
+         <text>孟郊</text>
+       </navLabel>
+       <content src="text00056.html"/>
+     <navPoint id="id59" playOrder="59">
+       <navLabel>
+         <text>列女操</text>
+       </navLabel>
+       <content src="text00057.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id60" playOrder="60">
+       <navLabel>
+         <text>游子吟</text>
+       </navLabel>
+       <content src="text00058.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id61" playOrder="61">
+       <navLabel>
+         <text>卷二</text>
+       </navLabel>
+       <content src="text00059.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="id62" playOrder="62">
+       <navLabel>
+         <text>七言古诗</text>
+       </navLabel>
+       <content src="text00059.html#sigil_toc_id_4"/>
+     <navPoint id="id63" playOrder="63">
+       <navLabel>
+         <text>陈子昂</text>
+       </navLabel>
+       <content src="text00059.html#sigil_toc_id_5"/>
+     <navPoint id="id64" playOrder="64">
+       <navLabel>
+         <text>登幽州台歌</text>
+       </navLabel>
+       <content src="text00060.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id65" playOrder="65">
+       <navLabel>
+         <text>李颀</text>
+       </navLabel>
+       <content src="text00061.html"/>
+     <navPoint id="id66" playOrder="66">
+       <navLabel>
+         <text>古意</text>
+       </navLabel>
+       <content src="text00062.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id67" playOrder="67">
+       <navLabel>
+         <text>送陈章甫</text>
+       </navLabel>
+       <content src="text00063.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id68" playOrder="68">
+       <navLabel>
+         <text>琴歌</text>
+       </navLabel>
+       <content src="text00064.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id69" playOrder="69">
+       <navLabel>
+         <text>听董大弹胡笳兼寄语弄房给事</text>
+       </navLabel>
+       <content src="text00065.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id70" playOrder="70">
+       <navLabel>
+         <text>听安万善吹觱篥歌</text>
+       </navLabel>
+       <content src="text00066.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id71" playOrder="71">
+       <navLabel>
+         <text>孟浩然</text>
+       </navLabel>
+       <content src="text00068.html"/>
+     <navPoint id="id72" playOrder="72">
+       <navLabel>
+         <text>夜归鹿门歌</text>
+       </navLabel>
+       <content src="text00068.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id73" playOrder="73">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00070.html"/>
+     <navPoint id="id74" playOrder="74">
+       <navLabel>
+         <text>庐山谣寄卢侍御虚舟</text>
+       </navLabel>
+       <content src="text00070.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id75" playOrder="75">
+       <navLabel>
+         <text>梦游天姥吟留别</text>
+       </navLabel>
+       <content src="text00071.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id76" playOrder="76">
+       <navLabel>
+         <text>金陵酒肆留别</text>
+       </navLabel>
+       <content src="text00072.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id77" playOrder="77">
+       <navLabel>
+         <text>宣州谢朓楼饯别校书叔云</text>
+       </navLabel>
+       <content src="text00073.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id78" playOrder="78">
+       <navLabel>
+         <text>岑参</text>
+       </navLabel>
+       <content src="text00075.html"/>
+     <navPoint id="id79" playOrder="79">
+       <navLabel>
+         <text>走马川行奉送封大夫出师西征</text>
+       </navLabel>
+       <content src="text00075.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id80" playOrder="80">
+       <navLabel>
+         <text>轮台歌奉送封大夫出师西征</text>
+       </navLabel>
+       <content src="text00076.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id81" playOrder="81">
+       <navLabel>
+         <text>白雪歌送武判官归</text>
+       </navLabel>
+       <content src="text00077.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id82" playOrder="82">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00079.html"/>
+     <navPoint id="id83" playOrder="83">
+       <navLabel>
+         <text>韦讽录事宅观曹将军画马图</text>
+       </navLabel>
+       <content src="text00079.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id84" playOrder="84">
+       <navLabel>
+         <text>丹青引赠曹将军霸</text>
+       </navLabel>
+       <content src="text00080.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id85" playOrder="85">
+       <navLabel>
+         <text>寄韩谏议注</text>
+       </navLabel>
+       <content src="text00081.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id86" playOrder="86">
+       <navLabel>
+         <text>古柏行</text>
+       </navLabel>
+       <content src="text00082.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id87" playOrder="87">
+       <navLabel>
+         <text>卷三</text>
+       </navLabel>
+       <content src="text00083.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="id88" playOrder="88">
+       <navLabel>
+         <text>七言古诗</text>
+       </navLabel>
+       <content src="text00083.html#sigil_toc_id_6"/>
+     <navPoint id="id89" playOrder="89">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00083.html#sigil_toc_id_7"/>
+     <navPoint id="id90" playOrder="90">
+       <navLabel>
+         <text>观公孙大娘弟子舞剑器行（并序）</text>
+       </navLabel>
+       <content src="text00084.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id91" playOrder="91">
+       <navLabel>
+         <text>元结</text>
+       </navLabel>
+       <content src="text00086.html"/>
+     <navPoint id="id92" playOrder="92">
+       <navLabel>
+         <text>石鱼湖上醉歌（并序）</text>
+       </navLabel>
+       <content src="text00086.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id93" playOrder="93">
+       <navLabel>
+         <text>韩愈</text>
+       </navLabel>
+       <content src="text00087.html"/>
+     <navPoint id="id94" playOrder="94">
+       <navLabel>
+         <text>山石</text>
+       </navLabel>
+       <content src="text00088.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id95" playOrder="95">
+       <navLabel>
+         <text>八月十五夜赠张功曹</text>
+       </navLabel>
+       <content src="text00089.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id96" playOrder="96">
+       <navLabel>
+         <text>谒衡岳庙遂宿岳寺题门楼</text>
+       </navLabel>
+       <content src="text00090.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id97" playOrder="97">
+       <navLabel>
+         <text>石鼓歌</text>
+       </navLabel>
+       <content src="text00091.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id98" playOrder="98">
+       <navLabel>
+         <text>柳宗元</text>
+       </navLabel>
+       <content src="text00093.html"/>
+     <navPoint id="id99" playOrder="99">
+       <navLabel>
+         <text>渔翁</text>
+       </navLabel>
+       <content src="text00093.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id100" playOrder="100">
+       <navLabel>
+         <text>白居易</text>
+       </navLabel>
+       <content src="text00094.html"/>
+     <navPoint id="id101" playOrder="101">
+       <navLabel>
+         <text>长恨歌</text>
+       </navLabel>
+       <content src="text00095.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id102" playOrder="102">
+       <navLabel>
+         <text>琵琶行（并序）</text>
+       </navLabel>
+       <content src="text00096.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id103" playOrder="103">
+       <navLabel>
+         <text>李商隐</text>
+       </navLabel>
+       <content src="text00097.html"/>
+     <navPoint id="id104" playOrder="104">
+       <navLabel>
+         <text>韩碑</text>
+       </navLabel>
+       <content src="text00098.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id105" playOrder="105">
+       <navLabel>
+         <text>卷四</text>
+       </navLabel>
+       <content src="text00099.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="id106" playOrder="106">
+       <navLabel>
+         <text>七言乐府</text>
+       </navLabel>
+       <content src="text00099.html#sigil_toc_id_8"/>
+     <navPoint id="id107" playOrder="107">
+       <navLabel>
+         <text>高适</text>
+       </navLabel>
+       <content src="text00099.html#sigil_toc_id_9"/>
+     <navPoint id="id108" playOrder="108">
+       <navLabel>
+         <text>燕歌行（并序）</text>
+       </navLabel>
+       <content src="text00100.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id109" playOrder="109">
+       <navLabel>
+         <text>李颀</text>
+       </navLabel>
+       <content src="text00102.html"/>
+     <navPoint id="id110" playOrder="110">
+       <navLabel>
+         <text>古从军行</text>
+       </navLabel>
+       <content src="text00102.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id111" playOrder="111">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00104.html"/>
+     <navPoint id="id112" playOrder="112">
+       <navLabel>
+         <text>洛阳女儿行</text>
+       </navLabel>
+       <content src="text00104.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id113" playOrder="113">
+       <navLabel>
+         <text>老将行</text>
+       </navLabel>
+       <content src="text00105.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id114" playOrder="114">
+       <navLabel>
+         <text>桃源行</text>
+       </navLabel>
+       <content src="text00106.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id115" playOrder="115">
+       <navLabel>
+         <text>附：陶渊明《桃花源记》</text>
+       </navLabel>
+       <content src="text00107.html"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id116" playOrder="116">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00109.html"/>
+     <navPoint id="id117" playOrder="117">
+       <navLabel>
+         <text>蜀道难</text>
+       </navLabel>
+       <content src="text00109.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id118" playOrder="118">
+       <navLabel>
+         <text>长相思（二首）</text>
+       </navLabel>
+       <content src="text00110.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id119" playOrder="119">
+       <navLabel>
+         <text>行路难</text>
+       </navLabel>
+       <content src="text00111.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id120" playOrder="120">
+       <navLabel>
+         <text>将进酒</text>
+       </navLabel>
+       <content src="text00112.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id121" playOrder="121">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00114.html"/>
+     <navPoint id="id122" playOrder="122">
+       <navLabel>
+         <text>兵车行</text>
+       </navLabel>
+       <content src="text00114.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id123" playOrder="123">
+       <navLabel>
+         <text>丽人行</text>
+       </navLabel>
+       <content src="text00115.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id124" playOrder="124">
+       <navLabel>
+         <text>哀江头</text>
+       </navLabel>
+       <content src="text00116.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id125" playOrder="125">
+       <navLabel>
+         <text>哀王孙</text>
+       </navLabel>
+       <content src="text00117.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id126" playOrder="126">
+       <navLabel>
+         <text>卷五</text>
+       </navLabel>
+       <content src="text00118.html#sigil_toc_id_10"/>
+     </navPoint>
+     <navPoint id="id127" playOrder="127">
+       <navLabel>
+         <text>五言律诗</text>
+       </navLabel>
+       <content src="text00118.html#sigil_toc_id_10"/>
+     <navPoint id="id128" playOrder="128">
+       <navLabel>
+         <text>唐玄宗</text>
+       </navLabel>
+       <content src="text00118.html#sigil_toc_id_11"/>
+     <navPoint id="id129" playOrder="129">
+       <navLabel>
+         <text>经鲁祭孔子而叹之</text>
+       </navLabel>
+       <content src="text00119.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id130" playOrder="130">
+       <navLabel>
+         <text>张九龄</text>
+       </navLabel>
+       <content src="text00121.html"/>
+     <navPoint id="id131" playOrder="131">
+       <navLabel>
+         <text>望月怀远</text>
+       </navLabel>
+       <content src="text00121.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id132" playOrder="132">
+       <navLabel>
+         <text>王勃</text>
+       </navLabel>
+       <content src="text00122.html"/>
+     <navPoint id="id133" playOrder="133">
+       <navLabel>
+         <text>杜少府之任蜀州</text>
+       </navLabel>
+       <content src="text00123.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id134" playOrder="134">
+       <navLabel>
+         <text>骆宾王</text>
+       </navLabel>
+       <content src="text00124.html"/>
+     <navPoint id="id135" playOrder="135">
+       <navLabel>
+         <text>在狱咏蝉（并序）</text>
+       </navLabel>
+       <content src="text00125.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id136" playOrder="136">
+       <navLabel>
+         <text>杜审言</text>
+       </navLabel>
+       <content src="text00126.html"/>
+     <navPoint id="id137" playOrder="137">
+       <navLabel>
+         <text>和晋陵陆丞早春游望</text>
+       </navLabel>
+       <content src="text00127.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id138" playOrder="138">
+       <navLabel>
+         <text>沈佺期</text>
+       </navLabel>
+       <content src="text00128.html"/>
+     <navPoint id="id139" playOrder="139">
+       <navLabel>
+         <text>杂诗</text>
+       </navLabel>
+       <content src="text00129.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id140" playOrder="140">
+       <navLabel>
+         <text>宋之问</text>
+       </navLabel>
+       <content src="text00130.html"/>
+     <navPoint id="id141" playOrder="141">
+       <navLabel>
+         <text>题大庾岭北驿</text>
+       </navLabel>
+       <content src="text00131.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id142" playOrder="142">
+       <navLabel>
+         <text>王湾</text>
+       </navLabel>
+       <content src="text00132.html"/>
+     <navPoint id="id143" playOrder="143">
+       <navLabel>
+         <text>次北固山下</text>
+       </navLabel>
+       <content src="text00133.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id144" playOrder="144">
+       <navLabel>
+         <text>常建</text>
+       </navLabel>
+       <content src="text00135.html"/>
+     <navPoint id="id145" playOrder="145">
+       <navLabel>
+         <text>破山寺后禅院</text>
+       </navLabel>
+       <content src="text00135.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id146" playOrder="146">
+       <navLabel>
+         <text>岑参</text>
+       </navLabel>
+       <content src="text00137.html"/>
+     <navPoint id="id147" playOrder="147">
+       <navLabel>
+         <text>寄左省杜拾遗</text>
+       </navLabel>
+       <content src="text00137.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id148" playOrder="148">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00139.html"/>
+     <navPoint id="id149" playOrder="149">
+       <navLabel>
+         <text>赠孟浩然</text>
+       </navLabel>
+       <content src="text00139.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id150" playOrder="150">
+       <navLabel>
+         <text>渡荆门送别</text>
+       </navLabel>
+       <content src="text00140.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id151" playOrder="151">
+       <navLabel>
+         <text>送友人</text>
+       </navLabel>
+       <content src="text00141.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id152" playOrder="152">
+       <navLabel>
+         <text>听蜀僧濬弹琴</text>
+       </navLabel>
+       <content src="text00142.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id153" playOrder="153">
+       <navLabel>
+         <text>夜泊牛渚怀古</text>
+       </navLabel>
+       <content src="text00143.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id154" playOrder="154">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00145.html"/>
+     <navPoint id="id155" playOrder="155">
+       <navLabel>
+         <text>春望</text>
+       </navLabel>
+       <content src="text00145.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id156" playOrder="156">
+       <navLabel>
+         <text>月夜</text>
+       </navLabel>
+       <content src="text00146.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id157" playOrder="157">
+       <navLabel>
+         <text>春宿左省</text>
+       </navLabel>
+       <content src="text00147.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id158" playOrder="158">
+       <navLabel>
+         <text>至德二载甫自京金光门出间道归 凤翔乾元初从左拾遗移华州掾 与亲故别因出此门有悲往事</text>
+       </navLabel>
+       <content src="text00148.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id159" playOrder="159">
+       <navLabel>
+         <text>月夜忆舍弟</text>
+       </navLabel>
+       <content src="text00149.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id160" playOrder="160">
+       <navLabel>
+         <text>天末怀李白</text>
+       </navLabel>
+       <content src="text00150.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id161" playOrder="161">
+       <navLabel>
+         <text>奉济驿重送严公四韵</text>
+       </navLabel>
+       <content src="text00151.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id162" playOrder="162">
+       <navLabel>
+         <text>别房太尉墓</text>
+       </navLabel>
+       <content src="text00152.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id163" playOrder="163">
+       <navLabel>
+         <text>旅夜书怀</text>
+       </navLabel>
+       <content src="text00153.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id164" playOrder="164">
+       <navLabel>
+         <text>登岳阳楼</text>
+       </navLabel>
+       <content src="text00154.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id165" playOrder="165">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00156.html"/>
+     <navPoint id="id166" playOrder="166">
+       <navLabel>
+         <text>辋川闲居赠裴秀才迪</text>
+       </navLabel>
+       <content src="text00156.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id167" playOrder="167">
+       <navLabel>
+         <text>山居秋暝</text>
+       </navLabel>
+       <content src="text00157.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id168" playOrder="168">
+       <navLabel>
+         <text>归嵩山作</text>
+       </navLabel>
+       <content src="text00158.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id169" playOrder="169">
+       <navLabel>
+         <text>终南山</text>
+       </navLabel>
+       <content src="text00159.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id170" playOrder="170">
+       <navLabel>
+         <text>酬张少府</text>
+       </navLabel>
+       <content src="text00160.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id171" playOrder="171">
+       <navLabel>
+         <text>过香积寺</text>
+       </navLabel>
+       <content src="text00161.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id172" playOrder="172">
+       <navLabel>
+         <text>送梓州李使君</text>
+       </navLabel>
+       <content src="text00162.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id173" playOrder="173">
+       <navLabel>
+         <text>汉江临眺</text>
+       </navLabel>
+       <content src="text00163.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id174" playOrder="174">
+       <navLabel>
+         <text>终南别业</text>
+       </navLabel>
+       <content src="text00164.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id175" playOrder="175">
+       <navLabel>
+         <text>孟浩然</text>
+       </navLabel>
+       <content src="text00166.html"/>
+     <navPoint id="id176" playOrder="176">
+       <navLabel>
+         <text>临洞庭上张丞相</text>
+       </navLabel>
+       <content src="text00166.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id177" playOrder="177">
+       <navLabel>
+         <text>与诸子登岘山</text>
+       </navLabel>
+       <content src="text00167.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id178" playOrder="178">
+       <navLabel>
+         <text>宴梅道士山房</text>
+       </navLabel>
+       <content src="text00168.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id179" playOrder="179">
+       <navLabel>
+         <text>岁暮归南山</text>
+       </navLabel>
+       <content src="text00169.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id180" playOrder="180">
+       <navLabel>
+         <text>过故人庄</text>
+       </navLabel>
+       <content src="text00170.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id181" playOrder="181">
+       <navLabel>
+         <text>秦中寄远上人</text>
+       </navLabel>
+       <content src="text00171.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id182" playOrder="182">
+       <navLabel>
+         <text>宿桐庐江寄广陵旧游</text>
+       </navLabel>
+       <content src="text00172.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id183" playOrder="183">
+       <navLabel>
+         <text>留别王维</text>
+       </navLabel>
+       <content src="text00173.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id184" playOrder="184">
+       <navLabel>
+         <text>早寒有怀</text>
+       </navLabel>
+       <content src="text00174.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id185" playOrder="185">
+       <navLabel>
+         <text>刘长卿</text>
+       </navLabel>
+       <content src="text00175.html"/>
+     <navPoint id="id186" playOrder="186">
+       <navLabel>
+         <text>秋日登吴公台上寺远眺寺即陈将吴明彻战场</text>
+       </navLabel>
+       <content src="text00176.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id187" playOrder="187">
+       <navLabel>
+         <text>送李中丞归汉阳别业</text>
+       </navLabel>
+       <content src="text00177.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id188" playOrder="188">
+       <navLabel>
+         <text>饯别王十一南游</text>
+       </navLabel>
+       <content src="text00178.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id189" playOrder="189">
+       <navLabel>
+         <text>寻南溪常道士</text>
+       </navLabel>
+       <content src="text00179.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id190" playOrder="190">
+       <navLabel>
+         <text>新年作</text>
+       </navLabel>
+       <content src="text00180.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id191" playOrder="191">
+       <navLabel>
+         <text>钱起</text>
+       </navLabel>
+       <content src="text00181.html"/>
+     <navPoint id="id192" playOrder="192">
+       <navLabel>
+         <text>送僧归日本</text>
+       </navLabel>
+       <content src="text00182.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id193" playOrder="193">
+       <navLabel>
+         <text>谷口书斋寄杨补阙</text>
+       </navLabel>
+       <content src="text00183.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id194" playOrder="194">
+       <navLabel>
+         <text>韦应物</text>
+       </navLabel>
+       <content src="text00185.html"/>
+     <navPoint id="id195" playOrder="195">
+       <navLabel>
+         <text>淮上喜会梁州故人</text>
+       </navLabel>
+       <content src="text00185.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id196" playOrder="196">
+       <navLabel>
+         <text>赋得暮雨送李曹</text>
+       </navLabel>
+       <content src="text00186.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id197" playOrder="197">
+       <navLabel>
+         <text>韩翃</text>
+       </navLabel>
+       <content src="text00187.html"/>
+     <navPoint id="id198" playOrder="198">
+       <navLabel>
+         <text>酬程近秋夜即事见赠</text>
+       </navLabel>
+       <content src="text00188.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id199" playOrder="199">
+       <navLabel>
+         <text>刘眘虚</text>
+       </navLabel>
+       <content src="text00189.html"/>
+     <navPoint id="id200" playOrder="200">
+       <navLabel>
+         <text>阙题</text>
+       </navLabel>
+       <content src="text00190.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id201" playOrder="201">
+       <navLabel>
+         <text>戴叔伦</text>
+       </navLabel>
+       <content src="text00191.html"/>
+     <navPoint id="id202" playOrder="202">
+       <navLabel>
+         <text>江乡故人偶集客舍</text>
+       </navLabel>
+       <content src="text00192.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id203" playOrder="203">
+       <navLabel>
+         <text>卢纶</text>
+       </navLabel>
+       <content src="text00193.html"/>
+     <navPoint id="id204" playOrder="204">
+       <navLabel>
+         <text>送李端</text>
+       </navLabel>
+       <content src="text00194.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id205" playOrder="205">
+       <navLabel>
+         <text>李益</text>
+       </navLabel>
+       <content src="text00195.html"/>
+     <navPoint id="id206" playOrder="206">
+       <navLabel>
+         <text>喜见外弟又言别</text>
+       </navLabel>
+       <content src="text00196.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id207" playOrder="207">
+       <navLabel>
+         <text>司空曙</text>
+       </navLabel>
+       <content src="text00197.html"/>
+     <navPoint id="id208" playOrder="208">
+       <navLabel>
+         <text>云阳馆与韩绅宿别</text>
+       </navLabel>
+       <content src="text00198.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id209" playOrder="209">
+       <navLabel>
+         <text>喜外弟卢纶见宿</text>
+       </navLabel>
+       <content src="text00199.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id210" playOrder="210">
+       <navLabel>
+         <text>贼平后送人北归</text>
+       </navLabel>
+       <content src="text00200.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id211" playOrder="211">
+       <navLabel>
+         <text>刘禹锡</text>
+       </navLabel>
+       <content src="text00201.html"/>
+     <navPoint id="id212" playOrder="212">
+       <navLabel>
+         <text>蜀先主庙</text>
+       </navLabel>
+       <content src="text00202.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id213" playOrder="213">
+       <navLabel>
+         <text>张籍</text>
+       </navLabel>
+       <content src="text00203.html"/>
+     <navPoint id="id214" playOrder="214">
+       <navLabel>
+         <text>没蕃故人</text>
+       </navLabel>
+       <content src="text00204.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id215" playOrder="215">
+       <navLabel>
+         <text>白居易</text>
+       </navLabel>
+       <content src="text00206.html"/>
+     <navPoint id="id216" playOrder="216">
+       <navLabel>
+         <text>草</text>
+       </navLabel>
+       <content src="text00206.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id217" playOrder="217">
+       <navLabel>
+         <text>杜牧</text>
+       </navLabel>
+       <content src="text00207.html"/>
+     <navPoint id="id218" playOrder="218">
+       <navLabel>
+         <text>旅宿</text>
+       </navLabel>
+       <content src="text00208.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id219" playOrder="219">
+       <navLabel>
+         <text>许浑</text>
+       </navLabel>
+       <content src="text00209.html"/>
+     <navPoint id="id220" playOrder="220">
+       <navLabel>
+         <text>秋日赴阙题潼关驿楼</text>
+       </navLabel>
+       <content src="text00210.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id221" playOrder="221">
+       <navLabel>
+         <text>早秋</text>
+       </navLabel>
+       <content src="text00211.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id222" playOrder="222">
+       <navLabel>
+         <text>李商隐</text>
+       </navLabel>
+       <content src="text00213.html"/>
+     <navPoint id="id223" playOrder="223">
+       <navLabel>
+         <text>蝉</text>
+       </navLabel>
+       <content src="text00213.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id224" playOrder="224">
+       <navLabel>
+         <text>风雨</text>
+       </navLabel>
+       <content src="text00214.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id225" playOrder="225">
+       <navLabel>
+         <text>落花</text>
+       </navLabel>
+       <content src="text00215.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id226" playOrder="226">
+       <navLabel>
+         <text>凉思</text>
+       </navLabel>
+       <content src="text00216.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id227" playOrder="227">
+       <navLabel>
+         <text>北青萝</text>
+       </navLabel>
+       <content src="text00217.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id228" playOrder="228">
+       <navLabel>
+         <text>温庭筠</text>
+       </navLabel>
+       <content src="text00218.html"/>
+     <navPoint id="id229" playOrder="229">
+       <navLabel>
+         <text>送人东游</text>
+       </navLabel>
+       <content src="text00219.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id230" playOrder="230">
+       <navLabel>
+         <text>马戴</text>
+       </navLabel>
+       <content src="text00220.html"/>
+     <navPoint id="id231" playOrder="231">
+       <navLabel>
+         <text>灞上秋居</text>
+       </navLabel>
+       <content src="text00221.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id232" playOrder="232">
+       <navLabel>
+         <text>楚江怀古</text>
+       </navLabel>
+       <content src="text00222.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id233" playOrder="233">
+       <navLabel>
+         <text>张乔</text>
+       </navLabel>
+       <content src="text00223.html"/>
+     <navPoint id="id234" playOrder="234">
+       <navLabel>
+         <text>书边事</text>
+       </navLabel>
+       <content src="text00224.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id235" playOrder="235">
+       <navLabel>
+         <text>崔涂</text>
+       </navLabel>
+       <content src="text00225.html"/>
+     <navPoint id="id236" playOrder="236">
+       <navLabel>
+         <text>除夜有怀</text>
+       </navLabel>
+       <content src="text00226.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id237" playOrder="237">
+       <navLabel>
+         <text>孤雁</text>
+       </navLabel>
+       <content src="text00227.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id238" playOrder="238">
+       <navLabel>
+         <text>杜荀鹤</text>
+       </navLabel>
+       <content src="text00228.html"/>
+     <navPoint id="id239" playOrder="239">
+       <navLabel>
+         <text>春宫怨</text>
+       </navLabel>
+       <content src="text00229.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id240" playOrder="240">
+       <navLabel>
+         <text>韦庄</text>
+       </navLabel>
+       <content src="text00230.html"/>
+     <navPoint id="id241" playOrder="241">
+       <navLabel>
+         <text>章台夜思</text>
+       </navLabel>
+       <content src="text00231.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id242" playOrder="242">
+       <navLabel>
+         <text>僧皎然</text>
+       </navLabel>
+       <content src="text00232.html"/>
+     <navPoint id="id243" playOrder="243">
+       <navLabel>
+         <text>寻陆鸿渐不遇</text>
+       </navLabel>
+       <content src="text00233.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id244" playOrder="244">
+       <navLabel>
+         <text>卷六</text>
+       </navLabel>
+       <content src="text00234.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="id245" playOrder="245">
+       <navLabel>
+         <text>七言律诗</text>
+       </navLabel>
+       <content src="text00234.html#sigil_toc_id_12"/>
+     <navPoint id="id246" playOrder="246">
+       <navLabel>
+         <text>崔颢</text>
+       </navLabel>
+       <content src="text00234.html#sigil_toc_id_13"/>
+     <navPoint id="id247" playOrder="247">
+       <navLabel>
+         <text>黄鹤楼</text>
+       </navLabel>
+       <content src="text00235.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id248" playOrder="248">
+       <navLabel>
+         <text>行经华阴</text>
+       </navLabel>
+       <content src="text00236.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id249" playOrder="249">
+       <navLabel>
+         <text>祖咏</text>
+       </navLabel>
+       <content src="text00237.html"/>
+     <navPoint id="id250" playOrder="250">
+       <navLabel>
+         <text>望蓟门</text>
+       </navLabel>
+       <content src="text00238.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id251" playOrder="251">
+       <navLabel>
+         <text>崔曙</text>
+       </navLabel>
+       <content src="text00239.html"/>
+     <navPoint id="id252" playOrder="252">
+       <navLabel>
+         <text>九日登望仙台呈刘明府</text>
+       </navLabel>
+       <content src="text00240.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id253" playOrder="253">
+       <navLabel>
+         <text>李颀</text>
+       </navLabel>
+       <content src="text00242.html"/>
+     <navPoint id="id254" playOrder="254">
+       <navLabel>
+         <text>送魏万之京</text>
+       </navLabel>
+       <content src="text00242.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id255" playOrder="255">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00244.html"/>
+     <navPoint id="id256" playOrder="256">
+       <navLabel>
+         <text>登金陵凤凰台</text>
+       </navLabel>
+       <content src="text00244.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id257" playOrder="257">
+       <navLabel>
+         <text>高适</text>
+       </navLabel>
+       <content src="text00246.html"/>
+     <navPoint id="id258" playOrder="258">
+       <navLabel>
+         <text>送李少府贬峡中王少府贬长沙</text>
+       </navLabel>
+       <content src="text00246.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id259" playOrder="259">
+       <navLabel>
+         <text>岑参</text>
+       </navLabel>
+       <content src="text00248.html"/>
+     <navPoint id="id260" playOrder="260">
+       <navLabel>
+         <text>和贾至舍人早朝大明宫之作</text>
+       </navLabel>
+       <content src="text00248.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id261" playOrder="261">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00250.html"/>
+     <navPoint id="id262" playOrder="262">
+       <navLabel>
+         <text>和贾至舍人早朝大明宫之作</text>
+       </navLabel>
+       <content src="text00250.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id263" playOrder="263">
+       <navLabel>
+         <text>奉和圣制从蓬莱向兴庆阁道中 留春雨中春望之作应制</text>
+       </navLabel>
+       <content src="text00251.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id264" playOrder="264">
+       <navLabel>
+         <text>积雨辋川庄作</text>
+       </navLabel>
+       <content src="text00252.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id265" playOrder="265">
+       <navLabel>
+         <text>赠郭给事</text>
+       </navLabel>
+       <content src="text00253.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id266" playOrder="266">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00255.html"/>
+     <navPoint id="id267" playOrder="267">
+       <navLabel>
+         <text>蜀相</text>
+       </navLabel>
+       <content src="text00255.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id268" playOrder="268">
+       <navLabel>
+         <text>客至</text>
+       </navLabel>
+       <content src="text00256.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id269" playOrder="269">
+       <navLabel>
+         <text>野望</text>
+       </navLabel>
+       <content src="text00257.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id270" playOrder="270">
+       <navLabel>
+         <text>闻官军收河南河北</text>
+       </navLabel>
+       <content src="text00258.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id271" playOrder="271">
+       <navLabel>
+         <text>登高</text>
+       </navLabel>
+       <content src="text00259.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id272" playOrder="272">
+       <navLabel>
+         <text>登楼</text>
+       </navLabel>
+       <content src="text00260.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id273" playOrder="273">
+       <navLabel>
+         <text>宿府</text>
+       </navLabel>
+       <content src="text00261.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id274" playOrder="274">
+       <navLabel>
+         <text>阁夜</text>
+       </navLabel>
+       <content src="text00262.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id275" playOrder="275">
+       <navLabel>
+         <text>咏怀古迹（五首）</text>
+       </navLabel>
+       <content src="text00263.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id276" playOrder="276">
+       <navLabel>
+         <text>刘长卿</text>
+       </navLabel>
+       <content src="text00265.html"/>
+     <navPoint id="id277" playOrder="277">
+       <navLabel>
+         <text>江州重别薛六柳八二员外</text>
+       </navLabel>
+       <content src="text00265.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id278" playOrder="278">
+       <navLabel>
+         <text>长沙过贾谊宅</text>
+       </navLabel>
+       <content src="text00266.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id279" playOrder="279">
+       <navLabel>
+         <text>自夏口至鹦鹉洲望岳阳寄源中丞</text>
+       </navLabel>
+       <content src="text00267.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id280" playOrder="280">
+       <navLabel>
+         <text>钱起</text>
+       </navLabel>
+       <content src="text00269.html"/>
+     <navPoint id="id281" playOrder="281">
+       <navLabel>
+         <text>赠阙下裴舍人</text>
+       </navLabel>
+       <content src="text00269.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id282" playOrder="282">
+       <navLabel>
+         <text>韦应物</text>
+       </navLabel>
+       <content src="text00271.html"/>
+     <navPoint id="id283" playOrder="283">
+       <navLabel>
+         <text>寄李儋元锡</text>
+       </navLabel>
+       <content src="text00271.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id284" playOrder="284">
+       <navLabel>
+         <text>韩翃</text>
+       </navLabel>
+       <content src="text00273.html"/>
+     <navPoint id="id285" playOrder="285">
+       <navLabel>
+         <text>同题仙游观</text>
+       </navLabel>
+       <content src="text00273.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id286" playOrder="286">
+       <navLabel>
+         <text>皇甫冉</text>
+       </navLabel>
+       <content src="text00274.html"/>
+     <navPoint id="id287" playOrder="287">
+       <navLabel>
+         <text>春思</text>
+       </navLabel>
+       <content src="text00275.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id288" playOrder="288">
+       <navLabel>
+         <text>卢纶</text>
+       </navLabel>
+       <content src="text00277.html"/>
+     <navPoint id="id289" playOrder="289">
+       <navLabel>
+         <text>晚次鄂州</text>
+       </navLabel>
+       <content src="text00277.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id290" playOrder="290">
+       <navLabel>
+         <text>柳宗元</text>
+       </navLabel>
+       <content src="text00279.html"/>
+     <navPoint id="id291" playOrder="291">
+       <navLabel>
+         <text>登柳州城楼寄漳汀封连四州刺史</text>
+       </navLabel>
+       <content src="text00279.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id292" playOrder="292">
+       <navLabel>
+         <text>刘禹锡</text>
+       </navLabel>
+       <content src="text00281.html"/>
+     <navPoint id="id293" playOrder="293">
+       <navLabel>
+         <text>西塞山怀古</text>
+       </navLabel>
+       <content src="text00281.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id294" playOrder="294">
+       <navLabel>
+         <text>元稹</text>
+       </navLabel>
+       <content src="text00282.html"/>
+     <navPoint id="id295" playOrder="295">
+       <navLabel>
+         <text>遣悲怀（三首）</text>
+       </navLabel>
+       <content src="text00283.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id296" playOrder="296">
+       <navLabel>
+         <text>白居易</text>
+       </navLabel>
+       <content src="text00285.html"/>
+     <navPoint id="id297" playOrder="297">
+       <navLabel>
+         <text>自河南经乱关内阻饥兄弟离散各在一处因 望月有感聊书所怀寄上浮梁大兄于潜 七兄乌江十五兄兼示符离及下邽弟</text>
+       </navLabel>
+       <content src="text00285.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id298" playOrder="298">
+       <navLabel>
+         <text>李商隐</text>
+       </navLabel>
+       <content src="text00287.html"/>
+     <navPoint id="id299" playOrder="299">
+       <navLabel>
+         <text>锦瑟</text>
+       </navLabel>
+       <content src="text00287.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id300" playOrder="300">
+       <navLabel>
+         <text>无题</text>
+       </navLabel>
+       <content src="text00288.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id301" playOrder="301">
+       <navLabel>
+         <text>隋宫</text>
+       </navLabel>
+       <content src="text00289.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id302" playOrder="302">
+       <navLabel>
+         <text>无题（二首）</text>
+       </navLabel>
+       <content src="text00290.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id303" playOrder="303">
+       <navLabel>
+         <text>筹笔驿</text>
+       </navLabel>
+       <content src="text00291.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id304" playOrder="304">
+       <navLabel>
+         <text>无题</text>
+       </navLabel>
+       <content src="text00292.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id305" playOrder="305">
+       <navLabel>
+         <text>春雨</text>
+       </navLabel>
+       <content src="text00293.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id306" playOrder="306">
+       <navLabel>
+         <text>无题（二首）</text>
+       </navLabel>
+       <content src="text00294.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id307" playOrder="307">
+       <navLabel>
+         <text>温庭筠</text>
+       </navLabel>
+       <content src="text00296.html"/>
+     <navPoint id="id308" playOrder="308">
+       <navLabel>
+         <text>利州南渡</text>
+       </navLabel>
+       <content src="text00296.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id309" playOrder="309">
+       <navLabel>
+         <text>苏武庙</text>
+       </navLabel>
+       <content src="text00297.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id310" playOrder="310">
+       <navLabel>
+         <text>薛逢</text>
+       </navLabel>
+       <content src="text00298.html"/>
+     <navPoint id="id311" playOrder="311">
+       <navLabel>
+         <text>宫词</text>
+       </navLabel>
+       <content src="text00299.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id312" playOrder="312">
+       <navLabel>
+         <text>秦韬玉</text>
+       </navLabel>
+       <content src="text00300.html"/>
+     <navPoint id="id313" playOrder="313">
+       <navLabel>
+         <text>贫女</text>
+       </navLabel>
+       <content src="text00301.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id314" playOrder="314">
+       <navLabel>
+         <text>乐府</text>
+       </navLabel>
+       <content src="text00302.html#sigil_toc_id_14"/>
+     <navPoint id="id315" playOrder="315">
+       <navLabel>
+         <text>沈期</text>
+       </navLabel>
+       <content src="text00302.html#sigil_toc_id_14"/>
+     <navPoint id="id316" playOrder="316">
+       <navLabel>
+         <text>独不见</text>
+       </navLabel>
+       <content src="text00303.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id317" playOrder="317">
+       <navLabel>
+         <text>卷七</text>
+       </navLabel>
+       <content src="text00304.html#sigil_toc_id_15"/>
+     </navPoint>
+     <navPoint id="id318" playOrder="318">
+       <navLabel>
+         <text>五言绝句</text>
+       </navLabel>
+       <content src="text00304.html#sigil_toc_id_15"/>
+     <navPoint id="id319" playOrder="319">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00304.html#sigil_toc_id_16"/>
+     <navPoint id="id320" playOrder="320">
+       <navLabel>
+         <text>鹿柴</text>
+       </navLabel>
+       <content src="text00305.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id321" playOrder="321">
+       <navLabel>
+         <text>竹里馆</text>
+       </navLabel>
+       <content src="text00306.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id322" playOrder="322">
+       <navLabel>
+         <text>送别</text>
+       </navLabel>
+       <content src="text00307.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id323" playOrder="323">
+       <navLabel>
+         <text>相思</text>
+       </navLabel>
+       <content src="text00308.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id324" playOrder="324">
+       <navLabel>
+         <text>杂诗</text>
+       </navLabel>
+       <content src="text00309.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id325" playOrder="325">
+       <navLabel>
+         <text>裴迪</text>
+       </navLabel>
+       <content src="text00310.html"/>
+     <navPoint id="id326" playOrder="326">
+       <navLabel>
+         <text>送崔九</text>
+       </navLabel>
+       <content src="text00311.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id327" playOrder="327">
+       <navLabel>
+         <text>祖咏</text>
+       </navLabel>
+       <content src="text00313.html"/>
+     <navPoint id="id328" playOrder="328">
+       <navLabel>
+         <text>终南望余雪</text>
+       </navLabel>
+       <content src="text00313.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id329" playOrder="329">
+       <navLabel>
+         <text>孟浩然</text>
+       </navLabel>
+       <content src="text00315.html"/>
+     <navPoint id="id330" playOrder="330">
+       <navLabel>
+         <text>宿建德江</text>
+       </navLabel>
+       <content src="text00315.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id331" playOrder="331">
+       <navLabel>
+         <text>春晓</text>
+       </navLabel>
+       <content src="text00316.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id332" playOrder="332">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00318.html"/>
+     <navPoint id="id333" playOrder="333">
+       <navLabel>
+         <text>夜思</text>
+       </navLabel>
+       <content src="text00318.html"/>
+     </navPoint>
+     <navPoint id="id334" playOrder="334">
+       <navLabel>
+         <text>怨情</text>
+       </navLabel>
+       <content src="text00319.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id335" playOrder="335">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00321.html"/>
+     <navPoint id="id336" playOrder="336">
+       <navLabel>
+         <text>八阵图</text>
+       </navLabel>
+       <content src="text00321.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id337" playOrder="337">
+       <navLabel>
+         <text>王之涣</text>
+       </navLabel>
+       <content src="text00322.html"/>
+     <navPoint id="id338" playOrder="338">
+       <navLabel>
+         <text>登鹳雀楼</text>
+       </navLabel>
+       <content src="text00323.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id339" playOrder="339">
+       <navLabel>
+         <text>刘长卿</text>
+       </navLabel>
+       <content src="text00325.html"/>
+     <navPoint id="id340" playOrder="340">
+       <navLabel>
+         <text>送灵澈</text>
+       </navLabel>
+       <content src="text00325.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id341" playOrder="341">
+       <navLabel>
+         <text>弹琴</text>
+       </navLabel>
+       <content src="text00326.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id342" playOrder="342">
+       <navLabel>
+         <text>送上人</text>
+       </navLabel>
+       <content src="text00327.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id343" playOrder="343">
+       <navLabel>
+         <text>韦应物</text>
+       </navLabel>
+       <content src="text00329.html"/>
+     <navPoint id="id344" playOrder="344">
+       <navLabel>
+         <text>秋夜寄丘员外</text>
+       </navLabel>
+       <content src="text00329.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id345" playOrder="345">
+       <navLabel>
+         <text>李端</text>
+       </navLabel>
+       <content src="text00330.html"/>
+     <navPoint id="id346" playOrder="346">
+       <navLabel>
+         <text>听筝</text>
+       </navLabel>
+       <content src="text00331.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id347" playOrder="347">
+       <navLabel>
+         <text>王建</text>
+       </navLabel>
+       <content src="text00332.html"/>
+     <navPoint id="id348" playOrder="348">
+       <navLabel>
+         <text>新嫁娘</text>
+       </navLabel>
+       <content src="text00333.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id349" playOrder="349">
+       <navLabel>
+         <text>权德舆</text>
+       </navLabel>
+       <content src="text00334.html"/>
+     <navPoint id="id350" playOrder="350">
+       <navLabel>
+         <text>玉台体</text>
+       </navLabel>
+       <content src="text00335.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id351" playOrder="351">
+       <navLabel>
+         <text>柳宗元</text>
+       </navLabel>
+       <content src="text00337.html"/>
+     <navPoint id="id352" playOrder="352">
+       <navLabel>
+         <text>江雪</text>
+       </navLabel>
+       <content src="text00337.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id353" playOrder="353">
+       <navLabel>
+         <text>元稹</text>
+       </navLabel>
+       <content src="text00339.html"/>
+     <navPoint id="id354" playOrder="354">
+       <navLabel>
+         <text>行宫</text>
+       </navLabel>
+       <content src="text00339.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id355" playOrder="355">
+       <navLabel>
+         <text>白居易</text>
+       </navLabel>
+       <content src="text00341.html"/>
+     <navPoint id="id356" playOrder="356">
+       <navLabel>
+         <text>问刘十九</text>
+       </navLabel>
+       <content src="text00341.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id357" playOrder="357">
+       <navLabel>
+         <text>张祜</text>
+       </navLabel>
+       <content src="text00342.html"/>
+     <navPoint id="id358" playOrder="358">
+       <navLabel>
+         <text>何满子</text>
+       </navLabel>
+       <content src="text00343.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id359" playOrder="359">
+       <navLabel>
+         <text>李商隐</text>
+       </navLabel>
+       <content src="text00345.html"/>
+     <navPoint id="id360" playOrder="360">
+       <navLabel>
+         <text>登乐游原</text>
+       </navLabel>
+       <content src="text00345.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id361" playOrder="361">
+       <navLabel>
+         <text>贾岛</text>
+       </navLabel>
+       <content src="text00346.html"/>
+     <navPoint id="id362" playOrder="362">
+       <navLabel>
+         <text>寻隐者不遇</text>
+       </navLabel>
+       <content src="text00347.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id363" playOrder="363">
+       <navLabel>
+         <text>李频</text>
+       </navLabel>
+       <content src="text00348.html"/>
+     <navPoint id="id364" playOrder="364">
+       <navLabel>
+         <text>渡汉江</text>
+       </navLabel>
+       <content src="text00349.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id365" playOrder="365">
+       <navLabel>
+         <text>金昌绪</text>
+       </navLabel>
+       <content src="text00351.html"/>
+     <navPoint id="id366" playOrder="366">
+       <navLabel>
+         <text>春怨</text>
+       </navLabel>
+       <content src="text00351.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id367" playOrder="367">
+       <navLabel>
+         <text>西鄙人</text>
+       </navLabel>
+       <content src="text00353.html"/>
+     <navPoint id="id368" playOrder="368">
+       <navLabel>
+         <text>哥舒歌</text>
+       </navLabel>
+       <content src="text00353.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id369" playOrder="369">
+       <navLabel>
+         <text>乐府</text>
+       </navLabel>
+       <content src="text00354.html#sigil_toc_id_17"/>
+     <navPoint id="id370" playOrder="370">
+       <navLabel>
+         <text>崔颢</text>
+       </navLabel>
+       <content src="text00354.html#sigil_toc_id_17"/>
+     <navPoint id="id371" playOrder="371">
+       <navLabel>
+         <text>长干行（二首）</text>
+       </navLabel>
+       <content src="text00355.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id372" playOrder="372">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00357.html"/>
+     <navPoint id="id373" playOrder="373">
+       <navLabel>
+         <text>玉阶怨</text>
+       </navLabel>
+       <content src="text00357.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id374" playOrder="374">
+       <navLabel>
+         <text>卢纶</text>
+       </navLabel>
+       <content src="text00359.html"/>
+     <navPoint id="id375" playOrder="375">
+       <navLabel>
+         <text>塞下曲（四首）</text>
+       </navLabel>
+       <content src="text00359.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id376" playOrder="376">
+       <navLabel>
+         <text>李益</text>
+       </navLabel>
+       <content src="text00361.html"/>
+     <navPoint id="id377" playOrder="377">
+       <navLabel>
+         <text>江南曲</text>
+       </navLabel>
+       <content src="text00361.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id378" playOrder="378">
+       <navLabel>
+         <text>卷八</text>
+       </navLabel>
+       <content src="text00362.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="id379" playOrder="379">
+       <navLabel>
+         <text>七言绝句</text>
+       </navLabel>
+       <content src="text00362.html#sigil_toc_id_18"/>
+     <navPoint id="id380" playOrder="380">
+       <navLabel>
+         <text>贺知章</text>
+       </navLabel>
+       <content src="text00362.html#sigil_toc_id_19"/>
+     <navPoint id="id381" playOrder="381">
+       <navLabel>
+         <text>回乡偶书</text>
+       </navLabel>
+       <content src="text00363.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id382" playOrder="382">
+       <navLabel>
+         <text>张旭</text>
+       </navLabel>
+       <content src="text00364.html"/>
+     <navPoint id="id383" playOrder="383">
+       <navLabel>
+         <text>桃花溪</text>
+       </navLabel>
+       <content src="text00365.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id384" playOrder="384">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00367.html"/>
+     <navPoint id="id385" playOrder="385">
+       <navLabel>
+         <text>九月九日忆山东兄弟</text>
+       </navLabel>
+       <content src="text00367.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id386" playOrder="386">
+       <navLabel>
+         <text>王昌龄</text>
+       </navLabel>
+       <content src="text00369.html"/>
+     <navPoint id="id387" playOrder="387">
+       <navLabel>
+         <text>芙蓉楼送辛渐</text>
+       </navLabel>
+       <content src="text00369.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id388" playOrder="388">
+       <navLabel>
+         <text>闺怨</text>
+       </navLabel>
+       <content src="text00370.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id389" playOrder="389">
+       <navLabel>
+         <text>春宫怨</text>
+       </navLabel>
+       <content src="text00371.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id390" playOrder="390">
+       <navLabel>
+         <text>王翰</text>
+       </navLabel>
+       <content src="text00372.html"/>
+     <navPoint id="id391" playOrder="391">
+       <navLabel>
+         <text>凉州曲</text>
+       </navLabel>
+       <content src="text00373.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id392" playOrder="392">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00375.html"/>
+     <navPoint id="id393" playOrder="393">
+       <navLabel>
+         <text>送孟浩然之广陵</text>
+       </navLabel>
+       <content src="text00375.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id394" playOrder="394">
+       <navLabel>
+         <text>下江陵</text>
+       </navLabel>
+       <content src="text00376.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id395" playOrder="395">
+       <navLabel>
+         <text>岑参</text>
+       </navLabel>
+       <content src="text00378.html"/>
+     <navPoint id="id396" playOrder="396">
+       <navLabel>
+         <text>逢入京使</text>
+       </navLabel>
+       <content src="text00378.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id397" playOrder="397">
+       <navLabel>
+         <text>杜甫</text>
+       </navLabel>
+       <content src="text00380.html"/>
+     <navPoint id="id398" playOrder="398">
+       <navLabel>
+         <text>江南逢李龟年</text>
+       </navLabel>
+       <content src="text00380.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id399" playOrder="399">
+       <navLabel>
+         <text>韦应物</text>
+       </navLabel>
+       <content src="text00382.html"/>
+     <navPoint id="id400" playOrder="400">
+       <navLabel>
+         <text>滁州西涧</text>
+       </navLabel>
+       <content src="text00382.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id401" playOrder="401">
+       <navLabel>
+         <text>张继</text>
+       </navLabel>
+       <content src="text00383.html"/>
+     <navPoint id="id402" playOrder="402">
+       <navLabel>
+         <text>枫桥夜泊</text>
+       </navLabel>
+       <content src="text00384.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id403" playOrder="403">
+       <navLabel>
+         <text>韩翃</text>
+       </navLabel>
+       <content src="text00386.html"/>
+     <navPoint id="id404" playOrder="404">
+       <navLabel>
+         <text>寒食</text>
+       </navLabel>
+       <content src="text00386.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id405" playOrder="405">
+       <navLabel>
+         <text>刘方平</text>
+       </navLabel>
+       <content src="text00387.html"/>
+     <navPoint id="id406" playOrder="406">
+       <navLabel>
+         <text>月夜</text>
+       </navLabel>
+       <content src="text00388.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id407" playOrder="407">
+       <navLabel>
+         <text>春怨</text>
+       </navLabel>
+       <content src="text00389.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id408" playOrder="408">
+       <navLabel>
+         <text>柳中庸</text>
+       </navLabel>
+       <content src="text00390.html"/>
+     <navPoint id="id409" playOrder="409">
+       <navLabel>
+         <text>征人怨</text>
+       </navLabel>
+       <content src="text00391.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id410" playOrder="410">
+       <navLabel>
+         <text>顾况</text>
+       </navLabel>
+       <content src="text00392.html"/>
+     <navPoint id="id411" playOrder="411">
+       <navLabel>
+         <text>宫词</text>
+       </navLabel>
+       <content src="text00393.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id412" playOrder="412">
+       <navLabel>
+         <text>李益</text>
+       </navLabel>
+       <content src="text00395.html"/>
+     <navPoint id="id413" playOrder="413">
+       <navLabel>
+         <text>夜上受降城闻笛</text>
+       </navLabel>
+       <content src="text00395.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id414" playOrder="414">
+       <navLabel>
+         <text>刘禹锡</text>
+       </navLabel>
+       <content src="text00397.html"/>
+     <navPoint id="id415" playOrder="415">
+       <navLabel>
+         <text>乌衣巷</text>
+       </navLabel>
+       <content src="text00397.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id416" playOrder="416">
+       <navLabel>
+         <text>春词</text>
+       </navLabel>
+       <content src="text00398.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id417" playOrder="417">
+       <navLabel>
+         <text>白居易</text>
+       </navLabel>
+       <content src="text00400.html"/>
+     <navPoint id="id418" playOrder="418">
+       <navLabel>
+         <text>宫词</text>
+       </navLabel>
+       <content src="text00400.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id419" playOrder="419">
+       <navLabel>
+         <text>张祜</text>
+       </navLabel>
+       <content src="text00402.html"/>
+     <navPoint id="id420" playOrder="420">
+       <navLabel>
+         <text>赠内人</text>
+       </navLabel>
+       <content src="text00402.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id421" playOrder="421">
+       <navLabel>
+         <text>集灵台（二首）</text>
+       </navLabel>
+       <content src="text00403.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id422" playOrder="422">
+       <navLabel>
+         <text>题金陵渡</text>
+       </navLabel>
+       <content src="text00404.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id423" playOrder="423">
+       <navLabel>
+         <text>朱庆馀</text>
+       </navLabel>
+       <content src="text00405.html"/>
+     <navPoint id="id424" playOrder="424">
+       <navLabel>
+         <text>宫中词</text>
+       </navLabel>
+       <content src="text00406.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id425" playOrder="425">
+       <navLabel>
+         <text>近试上张水部</text>
+       </navLabel>
+       <content src="text00407.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id426" playOrder="426">
+       <navLabel>
+         <text>杜牧</text>
+       </navLabel>
+       <content src="text00409.html"/>
+     <navPoint id="id427" playOrder="427">
+       <navLabel>
+         <text>将赴吴兴登乐游原</text>
+       </navLabel>
+       <content src="text00409.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id428" playOrder="428">
+       <navLabel>
+         <text>赤壁</text>
+       </navLabel>
+       <content src="text00410.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id429" playOrder="429">
+       <navLabel>
+         <text>泊秦淮</text>
+       </navLabel>
+       <content src="text00411.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id430" playOrder="430">
+       <navLabel>
+         <text>寄扬州韩绰判官</text>
+       </navLabel>
+       <content src="text00412.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id431" playOrder="431">
+       <navLabel>
+         <text>遣怀</text>
+       </navLabel>
+       <content src="text00413.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id432" playOrder="432">
+       <navLabel>
+         <text>秋夕</text>
+       </navLabel>
+       <content src="text00414.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id433" playOrder="433">
+       <navLabel>
+         <text>赠别</text>
+       </navLabel>
+       <content src="text00415.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id434" playOrder="434">
+       <navLabel>
+         <text>金谷园</text>
+       </navLabel>
+       <content src="text00416.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id435" playOrder="435">
+       <navLabel>
+         <text>李商隐</text>
+       </navLabel>
+       <content src="text00418.html"/>
+     <navPoint id="id436" playOrder="436">
+       <navLabel>
+         <text>夜雨寄北</text>
+       </navLabel>
+       <content src="text00418.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id437" playOrder="437">
+       <navLabel>
+         <text>寄令狐郎中</text>
+       </navLabel>
+       <content src="text00419.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id438" playOrder="438">
+       <navLabel>
+         <text>为有</text>
+       </navLabel>
+       <content src="text00420.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id439" playOrder="439">
+       <navLabel>
+         <text>隋宫</text>
+       </navLabel>
+       <content src="text00421.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id440" playOrder="440">
+       <navLabel>
+         <text>瑶池</text>
+       </navLabel>
+       <content src="text00422.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id441" playOrder="441">
+       <navLabel>
+         <text>嫦娥</text>
+       </navLabel>
+       <content src="text00423.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id442" playOrder="442">
+       <navLabel>
+         <text>贾生</text>
+       </navLabel>
+       <content src="text00424.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id443" playOrder="443">
+       <navLabel>
+         <text>温庭筠</text>
+       </navLabel>
+       <content src="text00426.html"/>
+     <navPoint id="id444" playOrder="444">
+       <navLabel>
+         <text>瑶瑟怨</text>
+       </navLabel>
+       <content src="text00426.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id445" playOrder="445">
+       <navLabel>
+         <text>郑畋</text>
+       </navLabel>
+       <content src="text00427.html"/>
+     <navPoint id="id446" playOrder="446">
+       <navLabel>
+         <text>马嵬坡</text>
+       </navLabel>
+       <content src="text00428.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id447" playOrder="447">
+       <navLabel>
+         <text>韩偓</text>
+       </navLabel>
+       <content src="text00429.html"/>
+     <navPoint id="id448" playOrder="448">
+       <navLabel>
+         <text>已凉</text>
+       </navLabel>
+       <content src="text00430.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id449" playOrder="449">
+       <navLabel>
+         <text>韦庄</text>
+       </navLabel>
+       <content src="text00432.html"/>
+     <navPoint id="id450" playOrder="450">
+       <navLabel>
+         <text>金陵图</text>
+       </navLabel>
+       <content src="text00432.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id451" playOrder="451">
+       <navLabel>
+         <text>陈陶</text>
+       </navLabel>
+       <content src="text00433.html"/>
+     <navPoint id="id452" playOrder="452">
+       <navLabel>
+         <text>陇西行</text>
+       </navLabel>
+       <content src="text00434.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id453" playOrder="453">
+       <navLabel>
+         <text>张泌</text>
+       </navLabel>
+       <content src="text00435.html"/>
+     <navPoint id="id454" playOrder="454">
+       <navLabel>
+         <text>寄人</text>
+       </navLabel>
+       <content src="text00436.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id455" playOrder="455">
+       <navLabel>
+         <text>无名氏</text>
+       </navLabel>
+       <content src="text00438.html"/>
+     <navPoint id="id456" playOrder="456">
+       <navLabel>
+         <text>杂诗</text>
+       </navLabel>
+       <content src="text00438.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id457" playOrder="457">
+       <navLabel>
+         <text>乐府</text>
+       </navLabel>
+       <content src="text00439.html#sigil_toc_id_20"/>
+     <navPoint id="id458" playOrder="458">
+       <navLabel>
+         <text>王维</text>
+       </navLabel>
+       <content src="text00439.html#sigil_toc_id_20"/>
+     <navPoint id="id459" playOrder="459">
+       <navLabel>
+         <text>渭城曲</text>
+       </navLabel>
+       <content src="text00440.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id460" playOrder="460">
+       <navLabel>
+         <text>秋夜曲</text>
+       </navLabel>
+       <content src="text00441.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id461" playOrder="461">
+       <navLabel>
+         <text>王昌龄</text>
+       </navLabel>
+       <content src="text00443.html"/>
+     <navPoint id="id462" playOrder="462">
+       <navLabel>
+         <text>长信怨</text>
+       </navLabel>
+       <content src="text00443.html#noteBack_1"/>
+     </navPoint>
+     <navPoint id="id463" playOrder="463">
+       <navLabel>
+         <text>出塞</text>
+       </navLabel>
+       <content src="text00444.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id464" playOrder="464">
+       <navLabel>
+         <text>李白</text>
+       </navLabel>
+       <content src="text00446.html"/>
+     <navPoint id="id465" playOrder="465">
+       <navLabel>
+         <text>清平调（三首）</text>
+       </navLabel>
+       <content src="text00446.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id466" playOrder="466">
+       <navLabel>
+         <text>王之涣</text>
+       </navLabel>
+       <content src="text00448.html"/>
+     <navPoint id="id467" playOrder="467">
+       <navLabel>
+         <text>出塞</text>
+       </navLabel>
+       <content src="text00448.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id468" playOrder="468">
+       <navLabel>
+         <text>杜秋娘</text>
+       </navLabel>
+       <content src="text00449.html"/>
+     <navPoint id="id469" playOrder="469">
+       <navLabel>
+         <text>金缕衣</text>
+       </navLabel>
+       <content src="text00450.html#noteBack_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+   </navMap>
+</ncx>
