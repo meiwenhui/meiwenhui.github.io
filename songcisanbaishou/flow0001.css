@@ -1,7 +1,7 @@
 @font-face {
   font-family: zfsj; src: url("song.TTF")
 }
-body{word-wrap:break-word;max-width: 650px;
+body{word-wrap:break-word;max-width: 650px;line-height: 1.618em;
 margin: 0 auto;font-family: zfsj}
 p{margin-top: 1em;text-indent: 0em;}
 .title1 {
@@ -136,7 +136,6 @@ p{margin-top: 1em;text-indent: 0em;}
 }
 .mulu1 {
 	font-size: 1.3em;
-	font-weight: bold;
 	margin-left: 0em;
 	margin-right: 0em;
 	margin-top: 0.2em;
@@ -243,7 +242,6 @@ p{margin-top: 1em;text-indent: 0em;}
 }
 .mulu1a {
 	font-size: 1.3em;
-	font-weight: bold;
 	margin-left: 4em;
 	margin-right: 0em;
 	margin-top: 0.2em;
